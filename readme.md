@@ -19,6 +19,8 @@ Note: *3X* project uses only Python 3.X and Tableau 10.0 and above for analysis
 
 * PPT - Contains Business problem and conversion to DS problem
 * Tableau - EDA Insights
+* All Modeling attepts 1 are on data as is
+* All Modeling attepts 2 are on SMOTE data (At the end we will do final comparision of which one is better)
 * Jupyter Notebook 1 - Data Cleaning, EDA, Smote
 * Jupyter Notebook 2 - Determining important Variables
 * Jupyter Notebook 3 - Modeling
