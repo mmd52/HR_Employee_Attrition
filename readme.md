@@ -20,11 +20,7 @@ Note: *3X* project uses only Python 3.X and Tableau 10.0 and above for analysis
 * PPT - Contains Business problem and conversion to DS problem
 * Tableau - EDA Insights
 * Feature Selection - Some work in Weka (The output is recorded in the excel file)
-* All Modeling attepts 1 are on data as is
-* All Modeling attepts 2 are on SMOTE data (At the end we will do final comparision of which one is better)
-* Jupyter Notebook 1 - Data Cleaning, EDA, Smote
-* Jupyter Notebook 2 - Determining important Variables
-* Jupyter Notebook 3 - Modeling
+* Various classification models
 * Final PPT - Interpretation
 * Report - duh!
 
@@ -34,15 +30,3 @@ Note: *3X* project uses only Python 3.X and Tableau 10.0 and above for analysis
 $ pip install imblearn
 # For Smote
 ```
-
-### Distribution of Tasks
-
-| Task | Assigned to |
-| ------ | ------ |
-| Data cleaning and Smote | Mohammed |
-| EDA | Sanchita,Patricia,Millicent,Valerio,Igor |
-| Feature Selection and Generation | Mohammed,Patricia,Sanchita |
-| Modeling (Supervised) | Mohammed,Sanchita,Valerio |
-| Modeling (Association) | Millicent,Patricia,Igor |
-| PPT Interpretation | Mohammed,Millicent,Patricia |
-| Tableau Interpretation | Sanchita,Valerio,Igor |
