@@ -68,7 +68,7 @@ The slides are [here](IGORandMillicentWillgive.com)
 > The code for SMOTE and one hot encoding is [here](https://github.com/mmd52/3XDataMining/blob/master/DataCleaning_And_Smote.ipynb)
 
 ##### Clustering
-> Clustering was just done to see if our data falls in two perfect categories. The code is [here](https://github.com/mmd52/3XDataMining/blob/master/clustering3X.ipynb)
+> Clustering was just done to see if our data falls in two perfect categories. The code is [here](https://github.com/mmd52/3XDataMining/blob/master/Clustering3XFinal.ipynb)
 
 ##### Modeling for prediction
 In order to find a model which could help with the prediction process we ran several data mining models
