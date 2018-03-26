@@ -78,13 +78,11 @@ In order to find a model which could help with the prediction process we ran sev
 * [Artificial Neural Networks](https://github.com/mmd52/3XDataMining/blob/master/ANN.ipynb)
 
 Summary:
-| Model | Accuracy | ROC | KAPPA |
-| ----- | ----- | ----- | ----- |
-| Decision tree with variables selected from cfs subset eval | 84.23% | 0.61 | 0.25 |
-| Random forest with variables selected from cfs subset eval | 87.77% | 0.61 | 0.25 |
-| Logistic Regression with all the data | 87.5% | 0.65 | 0.397 |
-| SVM with all the data | 82.0% | 0.59 | 0.23 |
-| ANN | 73.5% | 0.68 | 0.41 |
+* Decision tree with variables selected from cfs subset eval ACC-> 84.23% ROC-> 0.61 KAPPA-> 0.25 
+* Random forest with variables selected from cfs subset eval  ACC-> 87.77% ROC-> 0.61 KAPPA-> 0.25
+* Logistic Regression with all the data  ACC-> 87.5% ROC-> 0.65 KAPPA-> 0.397
+* SVM with all the data  ACC-> 82.0% ROC-> 0.59 KAPPA-> 0.23 
+* ANN  ACC-> 73.5% ROC-> 0.68 KAPPA-> 0.41
 
 >We achieved the best accuracy using random forest which is an ensemble of trees, However in a real life scenario we may need to explain the HR why are we saying someone is prone to leave in this case we will need to use a simple model like decision or logistic regression.
 
