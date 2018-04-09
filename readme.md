@@ -78,13 +78,13 @@ In order to find a model which could help with the prediction process we ran sev
 * [Artificial Neural Networks](https://github.com/mmd52/3XDataMining/blob/master/ANN.ipynb)
 
 Summary:
-* Decision tree with smote dataset 2 ACC-> 92.22% ROC-> 0.92 KAPPA-> 0.84 
-* Random forest with entire dataset  ACC-> 87.72% ROC-> 0.59 KAPPA-> 0.26
-* Logistic Regression with entire dataset  ACC-> 88.04% ROC-> 0.67 KAPPA-> 0.42
-* SVM   ACC-> 83.9% ROC-> 0.57 KAPPA-> 0.18 
-* ANN   ACC-> 85.86% ROC-> 0.64 KAPPA-> 0.33
+* Decision tree with variables selected from cfs subset eval ACC-> 84.23% ROC-> 0.61 KAPPA-> 0.25 
+* Random forest with variables selected from cfs subset eval  ACC-> 87.77% ROC-> 0.61 KAPPA-> 0.25
+* Logistic Regression with all the data  ACC-> 87.5% ROC-> 0.65 KAPPA-> 0.397
+* SVM with all the data  ACC-> 82.0% ROC-> 0.59 KAPPA-> 0.23 
+* ANN  ACC-> 73.5% ROC-> 0.68 KAPPA-> 0.41
 
-> We achieved the best accuracy using Decision tree with the help of smote data
+>We achieved the best accuracy using random forest which is an ensemble of trees, However in a real life scenario we may need to explain the HR why are we saying someone is prone to leave in this case we will need to use a simple model like decision or logistic regression.
 
 ##### Conclusion
 > We ended up creating an early warning system for our customer in order to help them predict if an employee has a possiblity of leaving the company or not
