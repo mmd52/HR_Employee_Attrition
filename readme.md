@@ -70,6 +70,10 @@ The slides are [here](https://github.com/mmd52/3XDataMining/blob/master/Attritio
 ##### Clustering
 > Clustering was just done to see if our data falls in two perfect categories. The code is [here](https://github.com/mmd52/3XDataMining/blob/master/Clustering3XFinal.ipynb)
 
+##### Association
+* Association rule mining was just done to see if our data has some patterns (Association was done in weka). The output is [here](https://github.com/mmd52/3XDataMining/blob/master/AssociationWekaOutput.md)
+* Code to prepare its data is [here](https://github.com/mmd52/3XDataMining/blob/master/DataCleaning_ForAssociation.ipynb)
+
 ##### Modeling for prediction
 In order to find a model which could help with the prediction process we ran several data mining models
 * [Decision Tree and Random forest](https://github.com/mmd52/3XDataMining/blob/master/ModelingDtree_Final.ipynb)

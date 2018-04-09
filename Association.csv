@@ -1,0 +1,1471 @@
+Age,Attrition,BusinessTravel,Department,EducationField,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,WorkLifeBalance
+MiddleAge,Yes,Travel_Rarely,Sales,Life Sciences,2,Female,3,2,Sales Executive,4,Single,Poor,3,1,0,1
+Old,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,2,2,Research Scientist,2,Married,Poor,4,4,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Other,4,Male,2,1,Laboratory Technician,3,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,Married,Poor,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Laboratory Technician,2,Married,Poor,3,4,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,Single,Poor,3,3,0,2
+Old,No,Travel_Rarely,Research & Development,Medical,3,Female,4,1,Laboratory Technician,1,Married,Poor,4,1,3,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,3,Divorced,Poor,4,2,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,2,3,Manufacturing Director,3,Single,Average,4,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,2,Healthcare Representative,3,Married,Poor,3,2,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,4,1,Laboratory Technician,2,Married,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,2,Laboratory Technician,3,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,Divorced,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Laboratory Technician,4,Divorced,Poor,3,3,1,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,3,Single,Poor,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,4,3,Manufacturing Director,1,Divorced,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,4,1,Research Scientist,2,Divorced,Poor,3,4,2,2
+Young,No,Non-Travel,Research & Development,Medical,4,Male,4,1,Laboratory Technician,4,Divorced,Poor,3,2,2,2
+Old,No,Travel_Rarely,Sales,Life Sciences,1,Female,2,4,Manager,4,Married,Rich,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,Single,Poor,3,3,0,3
+Young,No,Non-Travel,Research & Development,Other,1,Female,4,2,Manufacturing Director,3,Divorced,Poor,3,4,1,2
+MiddleAge,Yes,Travel_Rarely,Sales,Life Sciences,3,Male,2,1,Sales Representative,1,Single,Poor,4,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,3,Research Director,2,Single,Average,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Single,Poor,3,4,0,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Research Scientist,1,Single,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Other,3,Female,3,5,Manager,3,Divorced,Rich,3,4,1,2
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,2,Female,1,1,Research Scientist,1,Single,Poor,4,2,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,3,2,Sales Executive,2,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,2,3,Healthcare Representative,4,Married,Average,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Female,3,5,Manager,1,Single,Rich,3,4,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Laboratory Technician,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Male,3,2,Healthcare Representative,4,Married,Poor,3,4,0,4
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Laboratory Technician,3,Single,Poor,3,1,0,3
+MiddleAge,Yes,Travel_Rarely,Sales,Technical Degree,4,Male,3,2,Sales Representative,4,Married,Poor,3,3,1,4
+Young,Yes,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Research Scientist,4,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,4,1,Research Scientist,3,Divorced,Poor,3,4,2,2
+Old,Yes,Travel_Rarely,Sales,Marketing,1,Male,2,1,Sales Representative,3,Married,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Female,3,1,Sales Representative,4,Married,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,1,Married,Poor,3,4,1,4
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,3,Female,4,2,Sales Executive,1,Married,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,3,Male,3,1,Laboratory Technician,4,Divorced,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,1,Divorced,Poor,3,4,1,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,1,1,Laboratory Technician,3,Single,Poor,3,3,0,2
+Young,No,Travel_Frequently,Sales,Life Sciences,4,Male,3,3,Sales Executive,3,Single,Average,3,4,0,3
+Young,No,Travel_Frequently,Research & Development,Medical,3,Female,3,2,Laboratory Technician,4,Single,Poor,4,4,0,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Technical Degree,2,Female,3,5,Research Director,3,Married,Rich,3,4,0,3
+MiddleAge,No,Non-Travel,Sales,Marketing,2,Male,3,2,Sales Executive,3,Single,Poor,4,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,2,Married,Poor,4,1,0,3
+MiddleAge,No,Travel_Frequently,Sales,Marketing,1,Male,3,2,Sales Executive,4,Single,Poor,4,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,4,1,Laboratory Technician,4,Married,Poor,3,4,0,3
+Old,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,3,Laboratory Technician,3,Single,Poor,3,4,0,3
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,1,Laboratory Technician,3,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Female,3,2,Sales Executive,1,Divorced,Poor,4,3,1,2
+MiddleAge,No,Non-Travel,Research & Development,Medical,3,Male,2,3,Healthcare Representative,1,Married,Average,3,3,1,3
+Young,No,Travel_Rarely,Sales,Marketing,3,Female,2,2,Sales Executive,4,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Female,3,3,Research Director,4,Single,Average,3,3,0,3
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,2,Male,3,3,Sales Executive,1,Married,Average,4,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Laboratory Technician,1,Married,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,4,Divorced,Poor,4,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,2,Manufacturing Director,3,Divorced,Poor,3,3,1,4
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,3,2,Manufacturing Director,4,Married,Poor,4,2,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,2,Laboratory Technician,4,Single,Poor,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,2,Female,2,5,Research Director,3,Divorced,Rich,3,4,1,2
+Old,No,Travel_Rarely,Sales,Life Sciences,1,Female,3,3,Sales Executive,1,Single,Average,3,4,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,3,3,Healthcare Representative,3,Divorced,Average,3,2,3,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,4,Manager,3,Divorced,Rich,3,3,3,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,2,Male,2,2,Manufacturing Director,2,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,3,Research Scientist,1,Divorced,Average,3,3,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Male,3,1,Research Scientist,1,Married,Poor,3,4,1,2
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Research Scientist,3,Married,Poor,3,1,1,2
+Old,No,Travel_Frequently,Sales,Life Sciences,1,Female,2,2,Sales Executive,3,Single,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,2,Married,Poor,4,4,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,2,Single,Poor,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,2,Research Scientist,2,Married,Poor,3,2,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,4,1,Laboratory Technician,4,Married,Poor,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,4,Single,Poor,4,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,2,2,Sales Executive,1,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Male,3,3,Research Director,1,Married,Average,3,2,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,3,3,Research Director,3,Single,Average,3,1,0,4
+MiddleAge,No,Travel_Rarely,Human Resources,Medical,2,Male,3,2,Human Resources,2,Divorced,Poor,4,4,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,2,Laboratory Technician,4,Married,Poor,3,3,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,2,1,Research Scientist,3,Single,Poor,3,1,0,3
+Old,No,Travel_Rarely,Sales,Life Sciences,1,Male,3,3,Sales Executive,4,Married,Average,3,4,1,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,2,Female,1,2,Research Scientist,4,Divorced,Poor,3,4,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,3,2,Manufacturing Director,2,Married,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,1,3,Manufacturing Director,4,Single,Poor,3,1,0,2
+Young,No,Travel_Rarely,Sales,Technical Degree,3,Male,3,1,Sales Representative,1,Divorced,Poor,3,3,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,Married,Poor,4,2,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,2,Healthcare Representative,4,Married,Poor,3,1,3,3
+MiddleAge,Yes,Travel_Rarely,Sales,Medical,3,Male,2,3,Sales Executive,4,Single,Average,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,2,4,Healthcare Representative,2,Married,Average,4,4,1,2
+Old,No,Travel_Rarely,Sales,Marketing,3,Male,3,2,Sales Executive,4,Single,Poor,4,4,0,1
+Young,No,Travel_Rarely,Sales,Medical,3,Female,2,2,Sales Executive,2,Divorced,Poor,3,2,3,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Male,2,3,Healthcare Representative,1,Married,Average,3,3,1,2
+Young,No,Travel_Rarely,Sales,Medical,2,Male,3,2,Sales Executive,3,Single,Poor,3,1,0,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,1,Female,3,3,Research Director,3,Married,Average,3,1,1,1
+Young,No,Travel_Rarely,Sales,Other,1,Female,3,2,Sales Executive,3,Married,Poor,4,1,1,2
+Young,No,Non-Travel,Sales,Medical,2,Male,3,2,Sales Executive,3,Married,Poor,3,2,0,4
+Old,No,Travel_Rarely,Sales,Medical,4,Male,3,4,Sales Executive,3,Single,Rich,3,3,0,2
+MiddleAge,No,Non-Travel,Research & Development,Medical,2,Male,3,2,Laboratory Technician,2,Married,Poor,3,3,1,4
+MiddleAge,Yes,Travel_Rarely,Human Resources,Human Resources,3,Male,3,1,Human Resources,1,Divorced,Poor,4,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,1,Single,Poor,3,4,0,3
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,4,Female,2,1,Laboratory Technician,4,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,1,Female,3,2,Research Scientist,3,Single,Poor,3,3,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,2,2,Healthcare Representative,4,Divorced,Poor,3,4,1,4
+Old,No,Non-Travel,Human Resources,Human Resources,3,Female,2,5,Manager,4,Married,Rich,4,4,1,3
+Old,No,Travel_Frequently,Research & Development,Life Sciences,1,Female,3,5,Research Director,2,Married,Rich,3,1,0,2
+Young,Yes,Travel_Rarely,Sales,Marketing,3,Male,2,2,Sales Executive,3,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Research Scientist,4,Married,Poor,3,3,2,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,3,1,Laboratory Technician,4,Single,Poor,3,3,0,3
+Old,No,Travel_Frequently,Research & Development,Medical,1,Female,2,3,Healthcare Representative,1,Single,Average,4,3,0,2
+MiddleAge,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Male,1,2,Laboratory Technician,3,Single,Poor,4,4,0,3
+Old,No,Non-Travel,Human Resources,Human Resources,4,Female,4,4,Manager,4,Single,Rich,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,3,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,2,Research Scientist,2,Divorced,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,3,Sales Executive,4,Single,Average,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,2,3,Manager,1,Single,Average,3,4,0,3
+MiddleAge,No,Travel_Frequently,Sales,Technical Degree,2,Female,3,3,Sales Executive,4,Married,Average,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,4,Divorced,Poor,4,1,1,3
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,3,Male,3,4,Manager,4,Married,Rich,3,4,2,4
+Young,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,1,1,Research Scientist,3,Divorced,Poor,4,3,3,2
+MiddleAge,No,Non-Travel,Sales,Marketing,3,Male,3,2,Sales Executive,2,Married,Poor,3,1,1,4
+Old,Yes,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,1,Research Scientist,2,Married,Poor,3,1,3,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,5,Research Director,3,Single,Rich,3,3,0,3
+Young,Yes,Travel_Rarely,Sales,Life Sciences,2,Male,1,2,Sales Executive,3,Married,Poor,3,2,0,2
+Young,No,Travel_Rarely,Research & Development,Other,3,Female,2,1,Research Scientist,2,Married,Poor,3,3,0,2
+Old,Yes,Travel_Rarely,Research & Development,Medical,4,Female,3,3,Healthcare Representative,4,Married,Average,3,4,1,2
+Young,Yes,Travel_Rarely,Sales,Marketing,4,Male,3,1,Sales Representative,3,Single,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,1,Laboratory Technician,4,Married,Poor,3,3,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,3,Female,3,2,Manufacturing Director,1,Married,Poor,3,3,0,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Female,4,1,Research Scientist,3,Single,Poor,3,4,0,3
+Old,No,Travel_Frequently,Sales,Marketing,3,Female,3,3,Sales Executive,4,Single,Average,3,4,0,3
+Young,Yes,Travel_Rarely,Sales,Life Sciences,2,Female,1,2,Sales Executive,3,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,3,Sales Executive,3,Divorced,Average,3,3,1,3
+Young,No,Travel_Rarely,Human Resources,Life Sciences,3,Female,3,1,Human Resources,3,Married,Poor,4,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,3,2,Manufacturing Director,2,Divorced,Poor,4,4,2,3
+Old,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Male,1,3,Manufacturing Director,4,Single,Average,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Female,2,2,Sales Executive,3,Married,Poor,3,3,1,4
+Young,No,Travel_Rarely,Sales,Life Sciences,1,Male,2,2,Sales Executive,3,Married,Average,3,4,0,3
+Young,No,Travel_Rarely,Human Resources,Human Resources,3,Male,3,2,Human Resources,4,Married,Poor,3,4,0,1
+Young,Yes,Travel_Rarely,Research & Development,Medical,1,Female,3,1,Laboratory Technician,1,Single,Poor,4,1,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,4,Single,Poor,3,2,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,3,2,Research Scientist,3,Single,Poor,4,2,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,3,Single,Poor,3,3,0,2
+Young,No,Travel_Frequently,Sales,Medical,4,Male,1,2,Sales Executive,4,Divorced,Poor,3,4,3,4
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,3,1,Research Scientist,1,Divorced,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,2,1,Laboratory Technician,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,2,4,Manager,1,Divorced,Rich,3,2,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,1,Married,Poor,4,4,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,3,1,Laboratory Technician,2,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Female,3,2,Research Scientist,2,Divorced,Poor,3,1,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,3,3,Sales Executive,2,Married,Poor,3,1,2,3
+Old,No,Travel_Rarely,Sales,Marketing,2,Male,3,2,Sales Representative,3,Married,Poor,4,4,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,2,Laboratory Technician,2,Divorced,Poor,3,3,1,1
+Young,No,Travel_Frequently,Sales,Marketing,2,Female,3,3,Sales Executive,4,Single,Average,3,4,0,3
+Young,No,Non-Travel,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,3,Married,Poor,3,1,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,2,Male,2,2,Manufacturing Director,3,Married,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,2,Female,2,1,Research Scientist,2,Married,Poor,4,2,1,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,2,3,Sales Executive,4,Married,Average,3,1,1,2
+MiddleAge,No,Travel_Frequently,Sales,Marketing,3,Female,3,1,Sales Representative,3,Married,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,4,Married,Poor,4,1,2,3
+Young,No,Non-Travel,Research & Development,Medical,4,Male,3,1,Research Scientist,2,Divorced,Poor,3,4,1,1
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,4,Married,Poor,3,3,1,1
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,4,3,Healthcare Representative,4,Divorced,Average,3,2,1,1
+Young,No,Non-Travel,Research & Development,Medical,3,Male,2,1,Research Scientist,3,Divorced,Poor,3,4,1,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,5,Manager,2,Single,Rich,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,Divorced,Poor,3,1,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,2,Female,3,3,Sales Executive,4,Married,Average,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Female,2,2,Sales Executive,4,Single,Average,4,3,0,4
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,Single,Poor,4,1,0,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,2,Married,Poor,3,4,1,2
+Young,Yes,Travel_Frequently,Sales,Technical Degree,3,Female,1,1,Sales Representative,1,Single,Poor,4,1,0,4
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,Single,Poor,3,3,0,2
+Young,No,Non-Travel,Research & Development,Medical,3,Male,3,2,Laboratory Technician,1,Divorced,Poor,3,3,2,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,2,Sales Executive,1,Divorced,Poor,3,1,1,4
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,1,Divorced,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Single,Poor,3,1,0,4
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,2,Male,2,1,Laboratory Technician,4,Single,Poor,4,3,0,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Female,3,3,Sales Executive,1,Divorced,Average,4,3,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,Single,Poor,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Research Scientist,4,Married,Poor,4,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Research Scientist,2,Single,Poor,3,4,0,3
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,2,Female,3,1,Sales Representative,2,Single,Poor,4,4,0,2
+Old,No,Travel_Rarely,Research & Development,Medical,3,Male,2,1,Laboratory Technician,3,Married,Poor,3,4,1,2
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,4,2,Manufacturing Director,1,Divorced,Poor,3,3,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Research Scientist,2,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,3,5,Manager,3,Married,Rich,3,2,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,3,Male,4,5,Research Director,2,Single,Rich,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,3,Married,Average,3,3,0,2
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,4,Healthcare Representative,2,Single,Rich,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,5,Manager,3,Married,Rich,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Research Scientist,2,Single,Poor,3,4,0,2
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,2,Male,2,2,Manufacturing Director,3,Married,Poor,3,1,0,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,4,Male,4,1,Research Scientist,4,Divorced,Poor,3,4,3,4
+MiddleAge,No,Non-Travel,Research & Development,Medical,1,Male,2,4,Manager,4,Married,Rich,4,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,4,1,Research Scientist,1,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Female,3,2,Laboratory Technician,2,Single,Poor,3,4,0,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,Divorced,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,3,Married,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,4,Married,Poor,3,1,1,1
+Young,No,Travel_Frequently,Research & Development,Technical Degree,3,Male,2,2,Manufacturing Director,1,Married,Poor,3,3,1,3
+Old,No,Non-Travel,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,4,Divorced,Poor,3,1,2,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Male,3,1,Research Scientist,3,Divorced,Poor,3,4,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,2,Laboratory Technician,4,Married,Poor,3,3,1,4
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,2,Male,3,2,Healthcare Representative,1,Married,Poor,3,2,0,3
+Young,Yes,Travel_Rarely,Sales,Marketing,2,Female,3,3,Sales Executive,4,Married,Average,4,4,3,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,2,Divorced,Poor,3,1,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Female,3,1,Laboratory Technician,4,Single,Poor,3,1,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Male,2,2,Healthcare Representative,4,Married,Poor,3,4,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,3,Healthcare Representative,1,Divorced,Average,3,3,1,3
+Young,Yes,Travel_Rarely,Sales,Medical,4,Male,1,3,Sales Executive,4,Married,Average,3,3,0,2
+Young,No,Non-Travel,Research & Development,Life Sciences,3,Male,2,3,Manufacturing Director,3,Single,Average,4,3,0,3
+Young,No,Travel_Frequently,Sales,Life Sciences,4,Female,3,2,Sales Executive,3,Single,Average,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,2,3,Research Director,2,Married,Average,3,4,2,1
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,4,Female,3,1,Research Scientist,1,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Female,3,3,Manager,4,Single,Average,3,3,0,3
+Young,Yes,Travel_Frequently,Sales,Marketing,3,Female,2,2,Sales Executive,1,Single,Poor,3,3,0,2
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,3,Single,Poor,3,4,0,2
+MiddleAge,No,Non-Travel,Sales,Medical,4,Female,2,3,Sales Executive,4,Single,Average,3,4,0,3
+Old,No,Travel_Rarely,Sales,Marketing,4,Female,3,2,Sales Executive,1,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,2,Single,Poor,3,4,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,2,1,Research Scientist,2,Married,Poor,4,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Other,2,Male,3,3,Research Director,4,Divorced,Average,3,3,3,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Male,3,3,Sales Executive,3,Divorced,Average,3,3,2,2
+Young,No,Non-Travel,Research & Development,Medical,3,Male,1,2,Manufacturing Director,3,Married,Poor,3,4,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,4,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Frequently,Sales,Marketing,1,Male,3,1,Sales Representative,4,Divorced,Poor,3,3,1,3
+Young,No,Travel_Frequently,Sales,Medical,2,Female,3,3,Sales Executive,4,Married,Average,3,4,1,3
+MiddleAge,No,Travel_Frequently,Sales,Marketing,3,Female,3,3,Sales Executive,3,Single,Average,3,1,0,4
+Young,Yes,Travel_Rarely,Research & Development,Medical,3,Male,2,1,Research Scientist,4,Single,Poor,3,3,0,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,4,Single,Poor,3,2,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,5,Manager,4,Married,Rich,3,4,0,3
+Old,No,Travel_Rarely,Human Resources,Medical,2,Male,3,1,Human Resources,3,Married,Poor,3,4,0,2
+Old,No,Travel_Rarely,Sales,Medical,4,Female,3,5,Manager,4,Divorced,Rich,3,3,1,2
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Laboratory Technician,4,Married,Poor,3,3,1,1
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Female,3,4,Manager,4,Married,Rich,4,3,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,1,Married,Poor,4,1,0,4
+Old,No,Non-Travel,Sales,Life Sciences,1,Male,2,5,Manager,3,Single,Rich,3,4,0,4
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,1,Sales Representative,2,Married,Poor,3,1,1,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,3,Single,Poor,3,4,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Laboratory Technician,3,Divorced,Poor,3,3,3,3
+Young,No,Non-Travel,Sales,Marketing,3,Male,3,2,Sales Executive,4,Married,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Research Scientist,1,Divorced,Poor,3,1,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,1,Male,3,2,Research Scientist,4,Divorced,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,3,Male,4,5,Manager,4,Married,Rich,3,3,1,3
+Young,No,Travel_Frequently,Research & Development,Medical,2,Male,3,3,Research Director,3,Divorced,Rich,3,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,1,Research Scientist,4,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,1,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,2,1,Research Scientist,1,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,4,2,Manufacturing Director,3,Married,Poor,3,4,1,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Medical,1,Male,3,3,Manufacturing Director,3,Divorced,Average,3,2,2,3
+MiddleAge,No,Travel_Frequently,Research & Development,Technical Degree,3,Female,3,3,Healthcare Representative,3,Single,Average,4,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,4,2,Research Scientist,1,Single,Poor,3,3,0,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Male,3,2,Sales Executive,4,Divorced,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,2,Manufacturing Director,3,Married,Poor,3,4,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,2,1,Laboratory Technician,1,Divorced,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,3,5,Research Director,3,Divorced,Rich,3,4,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Married,Poor,3,2,0,2
+Young,Yes,Travel_Frequently,Research & Development,Medical,3,Male,2,1,Laboratory Technician,2,Single,Poor,3,2,0,4
+Young,No,Travel_Frequently,Research & Development,Life Sciences,2,Male,4,1,Laboratory Technician,2,Married,Poor,4,3,0,1
+MiddleAge,No,Non-Travel,Sales,Life Sciences,4,Male,2,2,Sales Executive,4,Married,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,2,2,Laboratory Technician,1,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,3,Female,1,4,Manager,2,Married,Rich,3,2,1,2
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,3,Single,Poor,3,3,0,1
+Young,No,Travel_Rarely,Sales,Medical,1,Male,2,2,Sales Executive,2,Married,Poor,3,2,2,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,2,2,Healthcare Representative,4,Married,Poor,4,2,1,3
+Young,No,Non-Travel,Research & Development,Life Sciences,2,Male,4,2,Healthcare Representative,1,Divorced,Poor,3,4,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,4,Healthcare Representative,4,Married,Average,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,Married,Poor,3,3,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,3,5,Manager,1,Single,Rich,3,3,0,3
+Old,Yes,Non-Travel,Research & Development,Life Sciences,1,Male,3,3,Manager,2,Married,Average,3,4,1,2
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Research Scientist,4,Married,Poor,4,4,1,2
+MiddleAge,No,Travel_Rarely,Sales,Medical,3,Male,3,2,Sales Executive,4,Married,Poor,3,2,1,4
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Research Scientist,3,Single,Poor,3,1,0,4
+MiddleAge,No,Non-Travel,Research & Development,Medical,1,Female,3,3,Research Director,4,Divorced,Average,3,1,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,4,3,Manager,2,Divorced,Average,3,2,1,2
+MiddleAge,No,Travel_Rarely,Sales,Medical,1,Female,4,2,Sales Executive,1,Divorced,Poor,4,3,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,2,Divorced,Poor,4,1,1,1
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,5,Research Director,2,Divorced,Rich,3,1,2,2
+Old,No,Travel_Rarely,Research & Development,Medical,3,Male,3,4,Research Director,3,Married,Rich,3,4,3,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Male,3,2,Sales Executive,3,Married,Poor,4,3,0,3
+Young,No,Travel_Frequently,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,Single,Poor,3,1,0,2
+Old,No,Travel_Rarely,Research & Development,Technical Degree,2,Male,3,2,Laboratory Technician,4,Married,Poor,3,4,1,3
+Young,No,Travel_Frequently,Research & Development,Medical,1,Male,3,2,Healthcare Representative,1,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,4,Single,Poor,3,2,0,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,3,Divorced,Poor,4,4,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,4,Divorced,Poor,3,2,1,3
+Young,Yes,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Laboratory Technician,2,Divorced,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,4,Single,Poor,4,4,0,3
+Old,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,3,5,Research Director,1,Single,Rich,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,2,Research Scientist,2,Single,Poor,3,4,0,3
+Young,No,Travel_Frequently,Sales,Marketing,4,Female,3,1,Sales Representative,2,Divorced,Poor,3,3,1,2
+Young,Yes,Travel_Rarely,Sales,Marketing,4,Male,2,2,Sales Executive,4,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Male,3,1,Research Scientist,4,Married,Poor,3,3,3,2
+MiddleAge,No,Travel_Frequently,Sales,Marketing,3,Female,3,4,Sales Executive,2,Married,Average,3,4,1,4
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,3,3,Sales Executive,2,Married,Average,3,3,2,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,4,1,Laboratory Technician,4,Married,Poor,3,4,2,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,1,2,Manufacturing Director,2,Divorced,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,4,Manager,2,Single,Rich,3,2,0,3
+Young,No,Travel_Rarely,Sales,Medical,4,Female,2,1,Sales Representative,3,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,4,2,Healthcare Representative,1,Single,Poor,3,3,0,3
+Young,No,Travel_Rarely,Sales,Technical Degree,2,Male,4,2,Sales Executive,4,Married,Poor,3,2,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,4,3,Healthcare Representative,4,Divorced,Average,3,1,3,2
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,2,Female,3,2,Laboratory Technician,2,Married,Poor,3,3,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,4,Male,2,2,Sales Executive,3,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,2,3,Research Director,2,Married,Average,3,3,1,3
+Old,No,Non-Travel,Research & Development,Life Sciences,4,Male,1,2,Healthcare Representative,3,Divorced,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,4,Married,Poor,3,3,1,3
+Young,No,Travel_Rarely,Human Resources,Human Resources,1,Male,2,2,Human Resources,1,Married,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,3,Laboratory Technician,1,Divorced,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Divorced,Poor,3,2,1,1
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,3,Manager,2,Married,Average,3,2,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,4,Manager,1,Married,Rich,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,Single,Poor,3,1,0,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,2,4,Healthcare Representative,3,Single,Rich,3,4,0,3
+Old,Yes,Travel_Rarely,Research & Development,Medical,3,Male,2,2,Research Scientist,2,Married,Poor,3,1,0,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,2,Single,Poor,3,2,0,2
+Young,No,Travel_Rarely,Sales,Technical Degree,3,Female,2,2,Sales Executive,2,Married,Poor,3,4,0,3
+Young,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Male,3,2,Sales Executive,4,Divorced,Average,3,4,3,3
+Young,No,Travel_Rarely,Research & Development,Medical,1,Female,4,2,Research Scientist,4,Single,Poor,3,3,0,2
+Young,Yes,Travel_Rarely,Research & Development,Medical,1,Male,1,1,Research Scientist,4,Married,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,3,2,Research Scientist,4,Married,Poor,3,4,2,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,2,3,Manufacturing Director,3,Married,Average,4,1,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Male,2,5,Manager,4,Married,Rich,3,1,1,3
+MiddleAge,Yes,Travel_Rarely,Sales,Medical,4,Female,3,2,Sales Executive,3,Married,Poor,3,1,0,2
+MiddleAge,No,Travel_Frequently,Sales,Marketing,2,Male,2,2,Sales Executive,4,Single,Poor,3,3,0,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,5,Research Director,3,Married,Rich,3,2,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,2,2,Laboratory Technician,3,Divorced,Poor,3,2,1,4
+Young,No,Non-Travel,Sales,Marketing,3,Male,3,2,Sales Executive,2,Married,Poor,3,4,1,3
+Old,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,3,Single,Poor,3,4,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,3,Healthcare Representative,1,Married,Average,3,1,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Male,3,2,Research Scientist,4,Married,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,2,Male,1,2,Sales Executive,4,Married,Average,4,3,3,2
+Young,Yes,Travel_Rarely,Research & Development,Other,2,Male,1,1,Laboratory Technician,1,Married,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Other,2,Male,2,1,Laboratory Technician,4,Single,Poor,3,3,0,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Female,2,2,Sales Executive,3,Divorced,Poor,3,3,3,3
+Young,No,Travel_Rarely,Sales,Marketing,2,Female,3,2,Sales Executive,2,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Manufacturing Director,4,Divorced,Poor,3,3,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,3,Research Director,4,Divorced,Average,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,3,Manufacturing Director,4,Single,Poor,3,3,0,2
+Young,No,Travel_Rarely,Sales,Marketing,4,Female,2,2,Sales Executive,2,Divorced,Average,3,1,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,3,3,Manufacturing Director,2,Single,Average,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Divorced,Poor,3,3,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,2,2,Manufacturing Director,2,Single,Poor,3,4,0,3
+Old,No,Travel_Frequently,Sales,Medical,2,Male,3,2,Sales Representative,3,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,4,Research Director,4,Single,Rich,3,2,0,3
+Young,No,Non-Travel,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Human Resources,Technical Degree,3,Male,3,1,Human Resources,3,Divorced,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Laboratory Technician,2,Married,Poor,3,3,1,3
+Old,No,Travel_Rarely,Sales,Medical,1,Female,3,3,Manager,3,Married,Average,4,2,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,4,2,Research Scientist,1,Divorced,Poor,3,1,2,3
+Young,No,Non-Travel,Sales,Technical Degree,4,Female,3,2,Sales Executive,3,Married,Poor,3,2,1,4
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,2,Sales Executive,3,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,1,Male,2,2,Healthcare Representative,4,Single,Poor,4,2,0,3
+Young,Yes,Travel_Frequently,Sales,Technical Degree,1,Female,2,1,Sales Representative,2,Single,Poor,3,3,0,3
+MiddleAge,No,Non-Travel,Sales,Medical,4,Female,3,2,Sales Executive,4,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Frequently,Sales,Medical,1,Male,2,3,Sales Executive,4,Married,Average,3,1,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Healthcare Representative,3,Married,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,4,1,Laboratory Technician,3,Married,Poor,3,3,1,3
+Young,No,Non-Travel,Sales,Medical,1,Male,3,1,Sales Representative,4,Single,Poor,4,3,0,2
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,4,Female,3,1,Sales Representative,3,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Laboratory Technician,1,Married,Poor,4,2,1,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,Married,Poor,3,3,0,4
+MiddleAge,Yes,Travel_Frequently,Sales,Marketing,1,Male,3,2,Sales Executive,2,Single,Average,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,2,3,Healthcare Representative,4,Single,Average,3,4,0,3
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,3,Male,2,2,Sales Executive,3,Married,Poor,3,1,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,2,Single,Poor,3,4,0,3
+Young,Yes,Travel_Rarely,Sales,Life Sciences,3,Female,4,1,Sales Representative,2,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,2,Healthcare Representative,2,Single,Poor,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,Divorced,Poor,3,2,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,Single,Poor,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Other,2,Male,2,3,Healthcare Representative,3,Single,Average,4,3,0,3
+Old,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,2,Sales Executive,4,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,Married,Poor,3,2,1,3
+MiddleAge,Yes,Non-Travel,Sales,Marketing,1,Male,4,2,Sales Executive,4,Single,Poor,3,2,0,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,4,Manager,4,Single,Rich,3,3,0,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Female,3,2,Sales Executive,3,Divorced,Poor,3,4,1,4
+Young,No,Travel_Rarely,Sales,Technical Degree,3,Male,3,1,Sales Representative,2,Married,Poor,3,1,1,3
+Young,Yes,Travel_Frequently,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,1,Single,Poor,4,3,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,1,Female,3,1,Research Scientist,2,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,2,Male,2,3,Sales Executive,3,Married,Average,3,2,2,3
+Young,Yes,Travel_Frequently,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,4,Single,Poor,4,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,1,Divorced,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Female,3,2,Sales Executive,2,Divorced,Poor,3,3,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,1,Laboratory Technician,1,Divorced,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Manufacturing Director,2,Single,Poor,3,4,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,4,Research Director,2,Divorced,Rich,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,2,2,Laboratory Technician,3,Married,Poor,4,2,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,1,Male,3,5,Research Director,1,Married,Rich,3,3,1,2
+MiddleAge,No,Non-Travel,Sales,Marketing,3,Female,3,2,Sales Executive,3,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,3,2,Manufacturing Director,1,Married,Poor,3,2,1,1
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,Married,Poor,4,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,3,Female,3,2,Healthcare Representative,3,Divorced,Poor,3,4,0,3
+Young,No,Travel_Rarely,Sales,Life Sciences,2,Female,2,2,Sales Executive,4,Single,Poor,3,2,0,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,2,Female,3,2,Research Scientist,3,Married,Poor,3,1,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,1,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,2,Male,3,5,Manager,3,Divorced,Rich,3,3,1,3
+Old,No,Travel_Frequently,Sales,Life Sciences,3,Female,4,4,Sales Executive,1,Married,Average,3,4,3,2
+Young,No,Travel_Rarely,Sales,Technical Degree,2,Female,3,2,Sales Executive,3,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,4,3,Sales Executive,1,Married,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,2,Laboratory Technician,1,Divorced,Poor,3,4,1,3
+Young,Yes,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Laboratory Technician,1,Married,Poor,3,3,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,2,3,Manufacturing Director,3,Married,Average,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,4,Married,Poor,4,4,2,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,4,Manager,4,Married,Rich,3,4,0,1
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Female,3,2,Research Scientist,3,Divorced,Poor,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,1,2,Manufacturing Director,4,Single,Poor,4,3,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,5,Manager,1,Married,Rich,3,4,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,Divorced,Poor,3,3,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Technical Degree,4,Female,2,2,Healthcare Representative,4,Married,Poor,3,4,3,4
+Young,Yes,Travel_Rarely,Sales,Technical Degree,1,Female,3,1,Sales Representative,2,Single,Poor,3,2,0,3
+MiddleAge,Yes,Travel_Frequently,Sales,Marketing,4,Female,1,1,Sales Representative,3,Divorced,Poor,3,4,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,Married,Poor,4,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,5,Manager,3,Married,Rich,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,4,Divorced,Poor,4,2,2,1
+Young,No,Non-Travel,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,4,Married,Poor,3,3,1,1
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,2,3,Research Director,3,Married,Average,3,3,0,3
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,3,Female,2,1,Research Scientist,2,Married,Poor,3,2,0,4
+Young,Yes,Travel_Rarely,Human Resources,Technical Degree,1,Male,2,1,Human Resources,4,Single,Poor,3,3,0,4
+Young,No,Non-Travel,Sales,Other,3,Female,3,3,Sales Executive,1,Married,Average,3,3,0,3
+Old,No,Travel_Rarely,Sales,Marketing,1,Male,2,4,Manager,4,Divorced,Rich,3,3,1,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,2,4,Manager,3,Married,Rich,3,2,1,3
+Young,No,Non-Travel,Research & Development,Medical,3,Female,3,1,Laboratory Technician,4,Single,Poor,3,3,0,2
+Old,No,Travel_Frequently,Sales,Marketing,3,Female,2,3,Sales Executive,1,Married,Average,3,4,0,4
+Old,No,Travel_Rarely,Research & Development,Medical,1,Female,3,2,Manufacturing Director,4,Divorced,Poor,3,3,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,4,Research Director,3,Married,Rich,3,3,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,1,1,Laboratory Technician,3,Single,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,2,Laboratory Technician,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,1,Research Scientist,3,Divorced,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Female,2,3,Sales Executive,4,Married,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,3,Manufacturing Director,2,Divorced,Average,4,4,1,4
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,2,Male,3,3,Manager,3,Married,Average,3,4,0,4
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,1,Male,1,1,Laboratory Technician,4,Divorced,Poor,3,1,3,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Male,3,1,Sales Representative,2,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,3,Married,Average,3,3,0,3
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,3,Healthcare Representative,3,Married,Average,3,1,0,3
+MiddleAge,Yes,Travel_Frequently,Human Resources,Human Resources,2,Female,3,3,Human Resources,1,Divorced,Average,3,3,3,3
+MiddleAge,No,Travel_Frequently,Research & Development,Other,2,Male,3,1,Laboratory Technician,3,Married,Poor,3,4,1,3
+MiddleAge,No,Non-Travel,Sales,Medical,2,Male,3,3,Sales Executive,4,Single,Average,3,4,0,2
+Young,Yes,Travel_Frequently,Research & Development,Technical Degree,3,Male,2,1,Laboratory Technician,3,Single,Poor,3,3,0,3
+Old,No,Travel_Rarely,Sales,Marketing,2,Female,3,2,Sales Executive,4,Married,Poor,3,1,1,3
+Old,No,Travel_Rarely,Sales,Life Sciences,1,Female,3,4,Manager,2,Single,Rich,4,4,0,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,4,Male,3,2,Sales Executive,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,3,2,Sales Executive,3,Married,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,4,Manufacturing Director,3,Single,Average,3,3,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,3,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,Single,Poor,3,3,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,3,Manufacturing Director,1,Married,Average,4,4,1,2
+MiddleAge,No,Travel_Rarely,Sales,Other,4,Male,3,2,Sales Executive,2,Married,Poor,3,2,1,4
+Young,Yes,Travel_Frequently,Human Resources,Life Sciences,2,Female,3,1,Human Resources,3,Divorced,Poor,3,2,1,2
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,4,Divorced,Poor,3,2,2,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,4,4,Research Director,3,Divorced,Rich,3,3,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Male,2,3,Manager,4,Divorced,Average,4,3,1,2
+Young,Yes,Travel_Frequently,Sales,Marketing,2,Male,3,1,Sales Representative,2,Single,Poor,3,4,0,3
+MiddleAge,No,Non-Travel,Sales,Other,3,Male,1,3,Sales Executive,1,Divorced,Average,3,3,1,3
+MiddleAge,No,Non-Travel,Research & Development,Other,1,Female,2,2,Healthcare Representative,3,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Sales,Medical,1,Male,3,2,Sales Executive,3,Divorced,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,1,Female,3,2,Sales Executive,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Male,4,2,Sales Executive,4,Single,Poor,3,4,0,3
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,3,Male,1,1,Laboratory Technician,4,Single,Poor,3,2,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,2,Female,3,3,Manufacturing Director,4,Single,Average,3,4,0,4
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,1,Female,3,3,Healthcare Representative,3,Married,Average,3,4,0,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Female,3,4,Manager,1,Married,Rich,3,2,1,3
+MiddleAge,No,Non-Travel,Sales,Medical,1,Male,3,3,Sales Executive,2,Divorced,Average,3,4,1,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,2,Research Scientist,1,Divorced,Poor,3,2,2,3
+Young,Yes,Non-Travel,Sales,Other,4,Male,4,2,Sales Executive,3,Married,Poor,3,4,0,3
+Young,No,Travel_Frequently,Sales,Medical,4,Male,3,1,Sales Representative,4,Married,Poor,3,3,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,3,2,Healthcare Representative,3,Married,Average,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,2,Married,Poor,3,2,1,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,5,Research Director,3,Divorced,Rich,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,4,1,Research Scientist,4,Married,Poor,3,2,2,3
+Young,No,Travel_Rarely,Sales,Marketing,1,Male,3,2,Sales Executive,2,Married,Poor,4,4,2,4
+Young,No,Travel_Rarely,Research & Development,Other,4,Male,2,1,Laboratory Technician,2,Married,Poor,4,4,1,3
+Old,No,Travel_Frequently,Human Resources,Medical,1,Male,3,5,Manager,2,Married,Rich,3,3,1,3
+Young,No,Travel_Rarely,Sales,Medical,2,Male,3,1,Sales Representative,3,Married,Poor,3,3,0,3
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,3,Married,Poor,3,4,1,3
+Young,Yes,Travel_Frequently,Sales,Life Sciences,2,Male,2,1,Sales Representative,1,Married,Poor,3,3,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,2,1,Research Scientist,4,Married,Poor,3,4,1,3
+Young,Yes,Travel_Rarely,Sales,Medical,2,Male,3,2,Sales Executive,1,Divorced,Poor,3,3,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Other,1,Male,2,2,Laboratory Technician,4,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Sales,Medical,1,Male,4,2,Sales Executive,4,Divorced,Poor,4,4,2,4
+Young,No,Travel_Rarely,Research & Development,Medical,1,Female,2,1,Research Scientist,3,Divorced,Poor,3,3,2,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Male,3,2,Sales Executive,3,Married,Average,3,3,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,1,Research Scientist,2,Single,Poor,3,4,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,2,Healthcare Representative,4,Married,Poor,3,2,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,2,Male,2,4,Research Director,4,Divorced,Rich,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,1,Single,Poor,3,4,0,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Male,3,2,Laboratory Technician,3,Divorced,Poor,3,2,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,4,Manager,1,Married,Rich,3,1,1,1
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,1,Female,2,2,Human Resources,3,Single,Poor,3,2,0,4
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,3,Female,3,1,Sales Representative,3,Divorced,Poor,3,4,2,3
+Young,Yes,Travel_Rarely,Sales,Marketing,3,Male,3,1,Sales Representative,1,Divorced,Poor,3,2,1,3
+Young,No,Travel_Rarely,Sales,Technical Degree,3,Male,3,1,Sales Representative,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Male,3,5,Manager,4,Married,Rich,3,1,1,4
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Research Scientist,3,Married,Poor,4,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,3,2,Sales Executive,3,Divorced,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,2,Research Scientist,4,Married,Poor,3,4,1,2
+Young,No,Travel_Frequently,Research & Development,Medical,3,Female,3,1,Research Scientist,3,Divorced,Poor,4,3,1,3
+Old,No,Travel_Rarely,Sales,Medical,4,Female,3,2,Sales Executive,1,Single,Average,4,4,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,Married,Poor,3,4,1,2
+MiddleAge,Yes,Travel_Frequently,Sales,Life Sciences,1,Female,3,2,Sales Executive,1,Married,Poor,3,4,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,3,Male,3,3,Manufacturing Director,3,Married,Average,3,3,1,3
+Young,No,Travel_Rarely,Sales,Medical,2,Female,3,2,Sales Executive,3,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,1,2,Research Scientist,4,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,4,Divorced,Average,4,3,1,1
+Old,No,Travel_Rarely,Human Resources,Medical,3,Male,3,3,Human Resources,2,Married,Average,3,3,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,2,2,Manufacturing Director,2,Divorced,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,2,1,Research Scientist,4,Single,Poor,3,4,0,3
+Young,Yes,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Research Scientist,3,Single,Poor,3,4,0,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,1,Single,Poor,3,1,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,3,Married,Poor,3,3,2,3
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,4,1,Research Scientist,1,Married,Poor,3,1,1,4
+Young,No,Travel_Rarely,Sales,Life Sciences,4,Male,4,2,Sales Executive,2,Married,Poor,4,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Female,2,2,Sales Executive,4,Single,Poor,4,1,0,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,2,Male,1,1,Research Scientist,4,Divorced,Poor,3,4,1,3
+Old,No,Travel_Rarely,Sales,Marketing,2,Male,4,2,Sales Executive,2,Married,Average,3,4,0,3
+Young,No,Travel_Frequently,Sales,Medical,4,Female,4,2,Sales Executive,4,Divorced,Poor,4,2,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,4,Single,Poor,3,1,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,4,1,Laboratory Technician,3,Married,Poor,3,3,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,2,3,Healthcare Representative,2,Single,Average,3,2,0,4
+Young,Yes,Travel_Rarely,Sales,Life Sciences,1,Female,3,2,Sales Executive,3,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,2,2,Healthcare Representative,3,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Male,3,2,Sales Executive,4,Single,Poor,3,4,0,2
+Old,Yes,Travel_Frequently,Sales,Technical Degree,2,Male,3,2,Sales Executive,3,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,4,2,Healthcare Representative,4,Single,Average,3,3,0,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,1,Married,Average,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,3,Research Director,4,Single,Average,3,4,0,3
+Old,No,Travel_Rarely,Sales,Marketing,4,Male,3,2,Sales Executive,1,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,4,Male,2,3,Sales Executive,1,Married,Average,4,3,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,4,4,Research Director,3,Married,Rich,3,3,0,3
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,2,Male,2,5,Manager,4,Divorced,Rich,3,2,3,2
+Old,No,Travel_Rarely,Sales,Marketing,1,Male,3,2,Sales Executive,1,Single,Poor,3,4,0,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,1,Divorced,Average,4,3,2,2
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,4,Male,2,5,Manager,3,Married,Rich,3,2,1,3
+Old,No,Travel_Rarely,Sales,Marketing,4,Male,3,1,Sales Representative,2,Married,Poor,3,4,1,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Female,1,1,Research Scientist,2,Single,Poor,3,4,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,1,Female,4,3,Research Director,1,Married,Average,3,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,3,Single,Average,3,4,0,4
+MiddleAge,No,Non-Travel,Research & Development,Medical,1,Male,1,1,Laboratory Technician,3,Single,Poor,3,3,0,3
+Old,No,Travel_Frequently,Sales,Medical,4,Female,3,4,Sales Executive,3,Divorced,Rich,3,4,2,2
+Young,No,Travel_Rarely,Sales,Marketing,3,Male,3,2,Sales Executive,4,Divorced,Poor,4,4,1,2
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,1,Sales Representative,3,Single,Poor,3,3,0,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Medical,3,Male,4,1,Research Scientist,3,Divorced,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,4,Male,2,2,Sales Executive,4,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,3,2,Healthcare Representative,3,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,Married,Poor,3,4,1,4
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,3,Female,4,2,Human Resources,2,Married,Poor,3,3,1,1
+Old,No,Travel_Rarely,Research & Development,Medical,3,Male,3,4,Healthcare Representative,4,Married,Average,3,3,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,2,1,Research Scientist,4,Single,Poor,4,4,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,2,2,Healthcare Representative,1,Single,Poor,3,1,0,1
+Young,No,Travel_Rarely,Sales,Marketing,4,Male,3,1,Sales Representative,2,Divorced,Poor,3,4,2,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,4,Single,Poor,3,4,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Female,3,2,Healthcare Representative,1,Divorced,Poor,3,1,1,4
+Young,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,2,Laboratory Technician,4,Married,Poor,3,4,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Research Scientist,3,Married,Poor,3,2,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,1,Divorced,Poor,3,3,1,3
+Old,No,Travel_Rarely,Sales,Marketing,3,Male,2,4,Manager,1,Married,Rich,3,1,0,4
+MiddleAge,Yes,Travel_Rarely,Research & Development,Other,4,Male,3,1,Research Scientist,4,Single,Poor,3,3,0,2
+Young,No,Travel_Rarely,Sales,Medical,3,Female,3,2,Sales Executive,4,Single,Poor,4,2,0,2
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,2,Male,1,2,Sales Representative,3,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,4,1,Research Scientist,3,Single,Poor,3,4,0,3
+Old,Yes,Travel_Frequently,Sales,Life Sciences,2,Female,4,2,Sales Executive,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Other,4,Male,3,2,Sales Executive,4,Single,Poor,4,3,0,3
+Old,Yes,Travel_Rarely,Research & Development,Medical,4,Male,3,5,Manager,1,Married,Rich,3,4,1,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,1,Male,2,3,Sales Executive,1,Single,Average,3,2,0,3
+Old,No,Non-Travel,Research & Development,Medical,4,Male,3,1,Research Scientist,4,Married,Poor,3,1,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,1,Female,1,1,Laboratory Technician,4,Divorced,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,3,2,Healthcare Representative,3,Married,Poor,3,1,1,2
+Young,Yes,Travel_Rarely,Sales,Technical Degree,4,Male,2,2,Sales Executive,1,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,4,1,Research Scientist,4,Single,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,2,Manufacturing Director,1,Divorced,Poor,3,2,2,3
+Young,No,Travel_Frequently,Sales,Marketing,3,Male,3,2,Sales Executive,4,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,1,Divorced,Poor,3,2,2,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Female,4,2,Manufacturing Director,1,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,2,1,Research Scientist,1,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Female,3,1,Sales Representative,4,Married,Poor,3,2,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,1,1,Laboratory Technician,3,Married,Poor,4,3,2,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Female,4,2,Healthcare Representative,2,Married,Poor,4,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,2,Sales Executive,1,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,2,Male,3,5,Manager,4,Divorced,Rich,3,2,1,2
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,3,Male,4,1,Laboratory Technician,1,Married,Poor,4,3,2,3
+Young,No,Non-Travel,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,2,Divorced,Poor,3,3,3,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,2,Laboratory Technician,3,Married,Poor,4,2,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,3,Male,3,4,Research Director,3,Married,Rich,3,4,0,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,2,Female,2,1,Laboratory Technician,1,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,3,Research Director,3,Married,Average,3,4,0,4
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,1,Female,3,2,Sales Executive,1,Single,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Other,3,Female,3,4,Manager,4,Married,Rich,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Other,3,Female,3,2,Manufacturing Director,2,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,4,1,Research Scientist,3,Married,Poor,4,3,1,3
+Old,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,5,Research Director,2,Single,Rich,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,4,1,Research Scientist,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,2,Manufacturing Director,4,Married,Poor,3,4,1,3
+Young,Yes,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,3,Single,Poor,3,4,0,2
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,3,Male,3,1,Human Resources,2,Married,Poor,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,2,Manufacturing Director,3,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,1,Male,2,2,Laboratory Technician,3,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,2,2,Manufacturing Director,4,Single,Poor,4,2,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,2,Manufacturing Director,2,Married,Poor,3,4,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,2,2,Healthcare Representative,1,Divorced,Poor,3,3,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,2,1,Research Scientist,4,Single,Poor,3,3,0,3
+Old,Yes,Travel_Rarely,Sales,Marketing,3,Female,3,3,Sales Executive,4,Married,Average,3,1,2,4
+Old,Yes,Travel_Rarely,Sales,Medical,3,Male,3,2,Sales Executive,4,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,4,Research Director,1,Married,Rich,4,3,1,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,2,3,Research Director,4,Divorced,Average,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,3,Male,3,3,Manufacturing Director,3,Single,Average,4,2,0,4
+Young,No,Travel_Rarely,Sales,Marketing,2,Female,3,2,Sales Executive,2,Married,Poor,4,1,0,3
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,3,Male,3,1,Human Resources,4,Married,Poor,3,3,1,1
+Young,Yes,Travel_Frequently,Research & Development,Medical,3,Female,2,1,Research Scientist,3,Married,Poor,3,1,1,3
+Young,No,Non-Travel,Research & Development,Medical,4,Male,3,1,Research Scientist,4,Married,Poor,3,3,3,2
+Old,No,Travel_Rarely,Sales,Marketing,1,Female,3,4,Manager,3,Married,Rich,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Healthcare Representative,2,Single,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,4,1,Research Scientist,1,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Rarely,Sales,Medical,1,Male,4,2,Sales Executive,1,Divorced,Poor,4,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,2,1,Research Scientist,1,Single,Poor,3,4,0,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,Married,Poor,3,4,1,2
+Young,No,Travel_Rarely,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,Divorced,Poor,3,3,1,2
+Young,No,Travel_Frequently,Research & Development,Life Sciences,2,Male,2,1,Research Scientist,4,Divorced,Poor,3,2,1,2
+Old,No,Travel_Rarely,Sales,Marketing,1,Female,2,3,Sales Executive,4,Married,Average,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Male,3,3,Sales Executive,1,Divorced,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,4,2,Research Scientist,3,Married,Poor,3,3,1,2
+Old,No,Travel_Frequently,Research & Development,Medical,3,Female,2,4,Manufacturing Director,4,Married,Rich,4,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Male,2,2,Sales Executive,3,Divorced,Poor,3,4,2,3
+Young,No,Travel_Rarely,Human Resources,Medical,2,Male,2,1,Human Resources,4,Divorced,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,4,Married,Poor,4,1,2,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,4,1,Laboratory Technician,4,Married,Poor,4,3,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Male,3,1,Research Scientist,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,1,Male,2,1,Human Resources,1,Married,Poor,4,3,0,3
+Young,No,Travel_Rarely,Sales,Other,3,Male,3,2,Sales Executive,1,Married,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,3,Manufacturing Director,3,Married,Average,4,2,1,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,2,Divorced,Poor,3,1,1,2
+Young,No,Non-Travel,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,4,Divorced,Poor,3,2,1,3
+Young,No,Travel_Rarely,Sales,Marketing,3,Male,2,2,Sales Executive,1,Married,Poor,3,1,0,4
+Old,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,3,1,Research Scientist,1,Married,Poor,3,2,1,3
+Young,No,Non-Travel,Research & Development,Life Sciences,1,Male,2,1,Laboratory Technician,4,Married,Poor,3,4,0,2
+Young,No,Travel_Frequently,Sales,Life Sciences,2,Male,3,2,Sales Executive,2,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,2,1,Sales Representative,2,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,4,2,Laboratory Technician,4,Married,Poor,3,2,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,Married,Poor,3,2,1,3
+Young,Yes,Travel_Rarely,Sales,Medical,2,Female,2,1,Sales Representative,3,Divorced,Poor,3,3,3,3
+Old,No,Travel_Rarely,Sales,Marketing,1,Male,3,4,Sales Executive,4,Married,Average,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,2,3,Manufacturing Director,2,Married,Average,3,1,0,3
+MiddleAge,No,Travel_Frequently,Sales,Medical,3,Female,3,1,Sales Representative,4,Married,Poor,3,2,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,4,Research Director,4,Single,Rich,3,3,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,2,Healthcare Representative,4,Married,Poor,3,2,1,2
+Old,No,Travel_Rarely,Sales,Marketing,3,Female,3,2,Sales Executive,4,Married,Poor,4,1,1,3
+MiddleAge,No,Non-Travel,Sales,Medical,1,Male,3,3,Sales Executive,2,Single,Average,3,4,0,3
+Old,No,Non-Travel,Research & Development,Life Sciences,1,Male,3,4,Manager,1,Divorced,Rich,3,4,1,3
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,4,Female,2,2,Human Resources,4,Married,Poor,3,3,2,3
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,4,Male,3,1,Human Resources,2,Divorced,Poor,3,3,1,4
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,Single,Poor,4,3,0,1
+Young,No,Travel_Rarely,Research & Development,Medical,1,Female,2,1,Laboratory Technician,4,Divorced,Poor,3,3,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,1,Married,Poor,3,4,0,3
+Young,No,Travel_Rarely,Sales,Medical,1,Male,3,2,Sales Executive,4,Single,Poor,3,2,0,3
+Old,Yes,Travel_Frequently,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,4,Divorced,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,2,Manufacturing Director,2,Divorced,Poor,4,3,1,4
+Young,Yes,Travel_Rarely,Sales,Medical,3,Female,2,1,Sales Representative,3,Single,Poor,3,4,0,2
+Young,Yes,Travel_Rarely,Research & Development,Other,4,Female,3,1,Research Scientist,4,Single,Poor,3,1,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,4,Married,Poor,3,1,1,2
+Old,No,Travel_Rarely,Sales,Life Sciences,4,Female,2,1,Sales Representative,4,Single,Poor,3,1,0,2
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,3,Married,Poor,3,1,1,4
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,2,Female,1,1,Laboratory Technician,4,Divorced,Poor,3,3,1,2
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Research Scientist,3,Divorced,Poor,3,2,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Laboratory Technician,1,Married,Poor,4,4,0,1
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,1,Research Scientist,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,2,Divorced,Poor,3,2,2,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,3,Female,2,2,Sales Executive,3,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,3,Male,2,1,Research Scientist,1,Single,Poor,3,2,0,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,2,3,Healthcare Representative,2,Divorced,Average,3,4,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,2,Male,2,1,Sales Representative,3,Married,Poor,3,2,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,2,Healthcare Representative,4,Married,Poor,4,4,1,1
+Old,No,Travel_Rarely,Research & Development,Other,1,Female,3,3,Laboratory Technician,2,Married,Average,3,3,1,2
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Research Scientist,3,Married,Poor,3,1,2,2
+Young,No,Non-Travel,Sales,Marketing,4,Female,3,2,Sales Executive,3,Married,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Other,2,Male,3,1,Research Scientist,4,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,3,3,Research Director,1,Married,Average,3,2,1,3
+Young,No,Non-Travel,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,2,Married,Poor,4,3,0,3
+Young,Yes,Travel_Rarely,Sales,Marketing,3,Male,2,1,Sales Representative,2,Married,Poor,3,3,3,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,1,Male,2,3,Sales Executive,2,Divorced,Average,3,2,1,2
+Young,No,Travel_Frequently,Sales,Medical,3,Male,2,2,Sales Executive,1,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Laboratory Technician,1,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Laboratory Technician,3,Single,Poor,4,3,0,3
+Young,Yes,Travel_Rarely,Sales,Other,4,Male,2,1,Sales Representative,2,Single,Poor,3,2,0,4
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,1,Male,3,1,Laboratory Technician,1,Single,Poor,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,3,2,Healthcare Representative,4,Married,Poor,3,3,2,1
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Male,3,1,Research Scientist,2,Divorced,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,2,Manufacturing Director,1,Married,Poor,3,3,1,4
+MiddleAge,Yes,Travel_Rarely,Sales,Life Sciences,3,Male,2,3,Sales Executive,4,Married,Average,3,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,2,2,Healthcare Representative,4,Single,Poor,3,1,0,3
+MiddleAge,Yes,Travel_Rarely,Sales,Life Sciences,1,Male,2,3,Sales Executive,3,Married,Average,3,3,0,1
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,3,2,Laboratory Technician,2,Married,Poor,3,2,0,2
+Young,No,Travel_Frequently,Sales,Technical Degree,3,Female,3,1,Sales Representative,4,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,3,Female,3,2,Sales Executive,3,Married,Poor,3,2,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,4,Manager,4,Married,Rich,3,2,1,2
+Old,Yes,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,3,Single,Poor,4,1,0,3
+Old,No,Travel_Rarely,Sales,Medical,3,Male,3,4,Manager,3,Divorced,Rich,3,3,1,4
+Young,No,Travel_Rarely,Sales,Other,3,Male,3,3,Sales Executive,3,Divorced,Poor,3,1,1,4
+MiddleAge,No,Non-Travel,Sales,Technical Degree,3,Female,3,2,Sales Executive,4,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,3,Sales Executive,4,Divorced,Average,3,2,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Male,4,3,Sales Executive,3,Single,Average,3,4,0,3
+MiddleAge,Yes,Non-Travel,Sales,Life Sciences,2,Female,4,4,Sales Executive,2,Single,Average,3,4,0,2
+Old,No,Travel_Frequently,Research & Development,Medical,3,Male,4,2,Manufacturing Director,3,Divorced,Poor,3,3,0,4
+MiddleAge,No,Non-Travel,Sales,Technical Degree,1,Male,3,2,Sales Executive,4,Divorced,Poor,3,4,2,3
+Young,Yes,Non-Travel,Research & Development,Medical,3,Male,2,1,Research Scientist,1,Single,Poor,4,1,0,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,4,Male,3,4,Manager,3,Single,Rich,3,4,0,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,1,Research Scientist,1,Single,Poor,4,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,1,Research Scientist,4,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Laboratory Technician,4,Divorced,Poor,3,4,2,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,3,4,Research Director,4,Divorced,Rich,4,3,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Other,3,Female,4,2,Healthcare Representative,2,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,1,Male,3,5,Research Director,3,Divorced,Rich,3,2,1,4
+Young,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,3,1,Laboratory Technician,2,Married,Poor,3,2,1,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,1,Married,Poor,3,3,1,3
+Old,No,Travel_Rarely,Sales,Life Sciences,4,Female,3,2,Sales Executive,4,Single,Poor,3,3,0,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,3,Married,Poor,3,2,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,4,Manufacturing Director,3,Married,Rich,3,4,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Male,3,1,Research Scientist,3,Married,Poor,3,2,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,3,Manufacturing Director,3,Divorced,Average,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,2,2,Manufacturing Director,3,Divorced,Poor,3,2,2,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Other,3,Male,2,1,Laboratory Technician,2,Divorced,Poor,4,4,1,1
+Young,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,1,Married,Poor,3,3,1,3
+Young,No,Non-Travel,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,Single,Poor,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,3,3,Manufacturing Director,3,Married,Average,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,3,3,Healthcare Representative,3,Divorced,Average,3,3,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,4,3,Research Director,1,Married,Average,3,3,3,2
+Young,Yes,Travel_Rarely,Research & Development,Medical,4,Female,2,1,Research Scientist,1,Single,Poor,3,1,0,3
+Young,Yes,Travel_Frequently,Research & Development,Medical,2,Female,3,1,Laboratory Technician,2,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,4,2,Manufacturing Director,4,Married,Poor,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,1,1,Laboratory Technician,1,Married,Poor,3,1,1,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,2,Healthcare Representative,3,Single,Poor,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,3,Healthcare Representative,3,Single,Average,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,3,2,Manufacturing Director,3,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,4,Manufacturing Director,4,Married,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,2,Manufacturing Director,4,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,2,Male,3,1,Laboratory Technician,4,Divorced,Poor,4,1,1,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Male,3,5,Manager,3,Married,Rich,3,2,0,4
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,Married,Poor,3,2,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,4,Manufacturing Director,4,Single,Rich,3,1,0,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,1,Female,1,2,Healthcare Representative,2,Married,Poor,3,1,0,1
+Old,No,Travel_Frequently,Research & Development,Medical,3,Male,3,2,Healthcare Representative,2,Married,Poor,3,4,2,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,2,Female,1,5,Research Director,3,Divorced,Rich,4,2,2,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,Single,Poor,3,3,0,3
+Young,Yes,Non-Travel,Sales,Medical,2,Male,1,2,Sales Executive,1,Single,Poor,3,4,0,3
+Old,Yes,Travel_Rarely,Sales,Marketing,1,Female,1,5,Manager,4,Married,Rich,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,4,Female,4,4,Sales Executive,4,Married,Average,3,3,1,3
+Old,No,Non-Travel,Sales,Life Sciences,4,Female,3,2,Sales Executive,3,Married,Poor,3,1,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,3,Female,4,1,Laboratory Technician,1,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Female,3,3,Manufacturing Director,1,Single,Average,3,3,0,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,2,Female,2,1,Sales Representative,4,Single,Poor,3,4,0,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Female,3,4,Manager,4,Married,Rich,3,2,1,4
+Young,No,Non-Travel,Research & Development,Medical,4,Female,3,1,Laboratory Technician,3,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,4,2,Sales Executive,4,Divorced,Average,3,4,1,2
+Old,No,Travel_Rarely,Sales,Technical Degree,2,Male,3,3,Manager,4,Married,Average,3,3,1,1
+MiddleAge,No,Travel_Rarely,Human Resources,Medical,2,Male,3,1,Human Resources,2,Single,Poor,3,1,0,3
+Old,No,Travel_Frequently,Sales,Marketing,3,Female,2,3,Sales Executive,2,Married,Average,3,1,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Other,1,Male,3,2,Laboratory Technician,3,Divorced,Poor,3,2,1,2
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,1,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,1,Sales Representative,3,Married,Poor,3,4,1,3
+Young,No,Travel_Rarely,Sales,Medical,4,Male,3,1,Sales Representative,2,Married,Poor,4,2,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Other,3,Male,3,1,Research Scientist,3,Married,Poor,3,1,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,2,Male,3,5,Research Director,3,Married,Rich,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Female,3,2,Healthcare Representative,2,Single,Poor,3,1,0,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,3,2,Sales Executive,1,Married,Average,3,2,1,2
+Young,No,Travel_Frequently,Research & Development,Medical,1,Female,2,1,Research Scientist,3,Divorced,Poor,3,3,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,5,Research Director,4,Divorced,Rich,3,4,2,3
+Old,No,Travel_Rarely,Sales,Life Sciences,3,Female,2,3,Sales Executive,3,Married,Average,3,2,1,3
+Old,No,Travel_Frequently,Research & Development,Medical,1,Female,3,1,Research Scientist,3,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,2,3,Manufacturing Director,4,Single,Average,3,2,0,2
+Old,No,Non-Travel,Research & Development,Medical,3,Male,2,4,Manager,1,Single,Rich,3,2,0,4
+MiddleAge,No,Travel_Rarely,Sales,Medical,3,Male,2,3,Sales Executive,4,Divorced,Average,3,3,1,3
+Young,Yes,Travel_Frequently,Sales,Marketing,4,Female,3,1,Sales Representative,4,Single,Poor,3,2,0,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,1,Single,Poor,3,1,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,2,Research Scientist,1,Divorced,Poor,4,1,3,3
+Old,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,Married,Poor,3,3,3,4
+Young,Yes,Non-Travel,Research & Development,Technical Degree,2,Male,2,3,Healthcare Representative,1,Single,Average,3,1,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,2,1,Laboratory Technician,1,Married,Poor,3,1,2,3
+Young,No,Travel_Rarely,Research & Development,Other,3,Male,3,2,Manufacturing Director,1,Married,Average,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,2,Female,4,1,Research Scientist,3,Married,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,3,Healthcare Representative,3,Married,Average,3,1,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,1,Male,3,3,Healthcare Representative,4,Married,Average,4,4,1,3
+Young,No,Non-Travel,Research & Development,Life Sciences,1,Male,1,1,Laboratory Technician,3,Married,Poor,3,4,3,3
+Old,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,2,Married,Average,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Other,3,Female,3,2,Research Scientist,3,Single,Poor,3,4,0,4
+MiddleAge,Yes,Travel_Rarely,Human Resources,Medical,2,Male,2,3,Human Resources,1,Married,Average,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,3,Healthcare Representative,4,Divorced,Poor,3,3,1,3
+MiddleAge,Yes,Travel_Rarely,Sales,Technical Degree,4,Male,3,3,Sales Executive,1,Single,Average,4,1,0,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Medical,1,Female,2,2,Research Scientist,3,Single,Poor,4,2,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,3,Divorced,Poor,3,4,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,4,Single,Average,3,3,0,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Female,2,2,Sales Executive,4,Divorced,Poor,3,3,3,3
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,1,Laboratory Technician,4,Married,Poor,3,2,1,4
+Young,Yes,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Laboratory Technician,3,Divorced,Poor,4,3,1,2
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,1,Male,2,1,Research Scientist,2,Single,Poor,4,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,4,Manager,1,Married,Rich,3,4,1,3
+Young,Yes,Travel_Frequently,Research & Development,Medical,1,Male,2,1,Laboratory Technician,2,Divorced,Poor,3,1,2,3
+Old,Yes,Travel_Frequently,Sales,Other,4,Male,3,2,Sales Executive,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,4,Female,3,2,Sales Executive,2,Married,Poor,3,3,1,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,4,Married,Poor,3,4,3,3
+Old,No,Non-Travel,Research & Development,Medical,1,Male,4,4,Manager,4,Single,Rich,4,3,0,2
+MiddleAge,No,Non-Travel,Sales,Life Sciences,2,Female,2,2,Sales Executive,3,Married,Poor,3,4,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,3,Healthcare Representative,2,Single,Average,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,2,3,Sales Executive,3,Divorced,Average,3,2,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Research Scientist,4,Divorced,Poor,4,1,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,3,3,Manufacturing Director,2,Divorced,Average,3,2,3,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,1,Male,3,4,Manager,3,Married,Rich,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Male,3,3,Sales Executive,2,Single,Average,3,3,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,1,Married,Average,3,3,1,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,4,Healthcare Representative,4,Divorced,Average,3,4,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,2,5,Research Director,3,Single,Rich,3,1,0,4
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,2,1,Research Scientist,2,Single,Poor,3,3,0,4
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,3,2,Laboratory Technician,2,Single,Poor,3,3,0,2
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,1,Male,3,2,Manufacturing Director,4,Single,Average,4,1,0,3
+Young,No,Travel_Frequently,Sales,Life Sciences,3,Male,4,1,Sales Representative,4,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,1,Research Scientist,2,Married,Poor,3,1,0,1
+MiddleAge,No,Travel_Frequently,Sales,Marketing,4,Male,3,2,Sales Executive,4,Divorced,Poor,3,4,1,3
+Old,No,Travel_Rarely,Sales,Technical Degree,4,Male,2,4,Sales Executive,2,Married,Average,3,2,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,3,Single,Poor,3,4,0,2
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,2,Divorced,Poor,3,4,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,1,2,Laboratory Technician,4,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,2,2,Manufacturing Director,4,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,3,Male,4,1,Human Resources,3,Married,Poor,3,4,1,4
+Young,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,3,Divorced,Poor,3,4,1,3
+Young,Yes,Non-Travel,Research & Development,Medical,3,Male,3,1,Laboratory Technician,3,Single,Poor,3,4,0,3
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,1,Female,3,2,Sales Executive,1,Single,Average,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,4,Married,Poor,3,1,1,3
+Young,Yes,Travel_Frequently,Research & Development,Medical,3,Male,3,1,Laboratory Technician,3,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,2,2,Healthcare Representative,4,Divorced,Poor,3,3,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,1,Research Scientist,3,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Female,3,2,Sales Executive,3,Married,Poor,4,1,0,2
+MiddleAge,No,Travel_Rarely,Human Resources,Technical Degree,3,Male,3,1,Human Resources,3,Single,Poor,3,2,0,1
+Young,Yes,Travel_Rarely,Sales,Life Sciences,4,Female,2,3,Sales Executive,1,Married,Poor,3,1,1,1
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Female,3,3,Research Director,3,Single,Average,3,3,0,2
+MiddleAge,Yes,Travel_Frequently,Sales,Life Sciences,3,Male,3,4,Sales Executive,1,Single,Rich,3,2,0,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,3,2,Sales Executive,1,Single,Poor,3,4,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Laboratory Technician,3,Married,Poor,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,Single,Poor,4,4,0,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,4,Married,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,4,1,Laboratory Technician,4,Married,Poor,4,2,1,3
+Young,No,Travel_Rarely,Sales,Marketing,3,Male,2,2,Sales Executive,3,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Female,2,2,Research Scientist,4,Married,Poor,3,4,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,3,Manufacturing Director,2,Divorced,Average,3,2,1,4
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Male,2,2,Healthcare Representative,1,Single,Poor,4,3,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Other,4,Male,2,1,Laboratory Technician,4,Married,Poor,3,2,1,4
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,1,Female,1,2,Sales Executive,3,Single,Poor,3,2,0,2
+Young,No,Non-Travel,Sales,Life Sciences,3,Female,3,1,Sales Representative,1,Divorced,Poor,3,3,3,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,3,5,Manager,1,Divorced,Rich,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,3,1,Laboratory Technician,4,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,1,Single,Poor,4,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,3,1,Research Scientist,3,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,2,Manufacturing Director,4,Married,Poor,3,2,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,1,Laboratory Technician,3,Single,Poor,3,1,0,2
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,Single,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,5,Manager,3,Divorced,Rich,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,1,1,Research Scientist,4,Married,Poor,3,1,1,2
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,4,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Female,3,4,Manager,1,Married,Rich,4,1,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Male,1,1,Research Scientist,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,2,Male,3,1,Human Resources,3,Married,Poor,3,4,1,3
+MiddleAge,Yes,Non-Travel,Research & Development,Life Sciences,1,Male,2,1,Research Scientist,1,Divorced,Poor,3,1,1,1
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,2,Sales Executive,1,Divorced,Poor,3,3,3,3
+MiddleAge,No,Travel_Frequently,Sales,Medical,2,Male,3,2,Sales Executive,2,Married,Poor,3,4,3,3
+Old,No,Travel_Frequently,Research & Development,Medical,4,Female,3,4,Manager,1,Married,Rich,4,3,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Laboratory Technician,1,Married,Poor,3,3,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,5,Research Director,2,Married,Rich,3,1,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,2,Sales Executive,1,Married,Average,3,4,3,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,2,Married,Poor,3,1,1,1
+MiddleAge,No,Travel_Frequently,Sales,Medical,2,Female,3,2,Sales Executive,3,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,1,1,Laboratory Technician,3,Divorced,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Laboratory Technician,3,Divorced,Poor,3,1,3,2
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Male,3,2,Research Scientist,4,Single,Poor,4,2,0,3
+Young,No,Travel_Rarely,Sales,Marketing,3,Male,4,1,Sales Representative,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,2,Manufacturing Director,4,Divorced,Average,3,3,1,2
+MiddleAge,No,Non-Travel,Human Resources,Medical,4,Male,4,2,Human Resources,1,Married,Poor,3,1,1,4
+Old,No,Travel_Rarely,Sales,Marketing,2,Male,4,2,Sales Executive,4,Divorced,Poor,3,2,1,3
+Young,No,Travel_Frequently,Research & Development,Other,3,Female,2,1,Laboratory Technician,2,Married,Poor,4,3,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,1,3,Manufacturing Director,1,Divorced,Average,4,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Research Scientist,4,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,2,Female,2,2,Sales Executive,2,Divorced,Poor,3,2,1,4
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,2,Sales Executive,4,Single,Poor,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Research Scientist,2,Married,Poor,4,1,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,1,Female,3,3,Research Director,1,Married,Average,3,3,0,3
+MiddleAge,No,Non-Travel,Sales,Marketing,3,Female,2,3,Sales Executive,4,Married,Average,3,2,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,1,Married,Poor,3,4,2,2
+Old,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,3,Manufacturing Director,3,Divorced,Average,3,1,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,4,1,Research Scientist,4,Married,Poor,3,4,1,3
+Young,Yes,Non-Travel,Research & Development,Medical,1,Female,2,1,Research Scientist,2,Single,Poor,4,2,0,4
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,4,Divorced,Poor,3,1,3,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,4,Research Director,4,Married,Rich,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,2,Healthcare Representative,1,Married,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,2,2,Healthcare Representative,1,Single,Poor,3,2,0,3
+Old,No,Travel_Rarely,Sales,Life Sciences,3,Female,2,2,Sales Executive,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,1,5,Research Director,4,Married,Rich,3,2,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,1,Male,2,5,Manager,3,Married,Rich,3,3,1,4
+MiddleAge,No,Travel_Frequently,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,2,Married,Poor,3,3,0,2
+Old,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,4,1,Laboratory Technician,2,Single,Poor,3,3,0,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,Divorced,Poor,3,2,3,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,4,Divorced,Poor,3,2,2,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,5,Research Director,4,Single,Rich,3,3,0,4
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,4,Research Director,4,Divorced,Rich,3,2,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,4,1,Research Scientist,3,Married,Poor,3,4,0,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,3,5,Manager,2,Married,Rich,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Male,4,3,Sales Executive,3,Divorced,Average,3,4,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,4,1,Research Scientist,4,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,3,Married,Poor,4,4,1,3
+Young,Yes,Travel_Frequently,Sales,Life Sciences,3,Male,1,1,Sales Representative,4,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Single,Poor,4,2,0,2
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,1,Female,1,5,Manager,2,Single,Rich,3,1,0,3
+Old,No,Non-Travel,Research & Development,Medical,4,Male,2,4,Healthcare Representative,2,Divorced,Average,3,4,1,3
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Female,2,1,Laboratory Technician,3,Single,Poor,4,3,0,1
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Female,2,5,Manager,2,Married,Rich,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Female,3,2,Sales Executive,1,Single,Poor,3,4,0,3
+Old,No,Travel_Frequently,Sales,Life Sciences,4,Male,3,5,Manager,2,Divorced,Rich,4,1,1,2
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,3,3,Manufacturing Director,4,Single,Average,3,4,0,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Female,3,2,Laboratory Technician,2,Divorced,Poor,3,3,2,4
+Young,No,Travel_Frequently,Research & Development,Medical,4,Male,3,1,Laboratory Technician,3,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,4,5,Manager,1,Divorced,Rich,3,4,2,2
+MiddleAge,No,Travel_Frequently,Human Resources,Life Sciences,3,Male,2,2,Human Resources,2,Married,Poor,3,4,2,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,Married,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,4,2,Research Scientist,2,Married,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Female,2,3,Sales Executive,4,Single,Average,3,4,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,2,Single,Poor,3,4,0,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,1,Female,3,3,Healthcare Representative,4,Married,Average,3,4,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,2,1,Laboratory Technician,4,Married,Poor,3,2,1,3
+Old,No,Travel_Frequently,Research & Development,Medical,2,Female,2,1,Laboratory Technician,3,Single,Poor,3,2,0,2
+Young,No,Non-Travel,Research & Development,Medical,3,Female,3,2,Manufacturing Director,3,Single,Poor,3,3,0,3
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,2,Female,3,1,Laboratory Technician,3,Divorced,Poor,3,1,2,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,1,Single,Poor,3,2,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Research Scientist,2,Single,Poor,3,4,0,2
+Young,No,Travel_Rarely,Sales,Medical,3,Male,4,2,Sales Executive,4,Married,Poor,3,3,2,4
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Female,3,5,Manager,2,Single,Rich,4,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,2,4,Manager,2,Divorced,Rich,3,4,2,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,Divorced,Poor,3,4,2,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,3,Married,Poor,3,1,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,1,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,1,Female,2,2,Laboratory Technician,4,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,3,3,Healthcare Representative,3,Married,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,4,Female,3,1,Human Resources,1,Single,Poor,3,3,0,4
+Young,No,Non-Travel,Research & Development,Life Sciences,3,Female,1,2,Laboratory Technician,4,Married,Poor,3,1,3,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,4,Research Director,1,Married,Rich,3,2,0,3
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,4,Male,2,3,Sales Executive,2,Single,Average,3,3,0,3
+Old,Yes,Travel_Rarely,Sales,Life Sciences,2,Male,3,3,Sales Executive,2,Single,Average,3,3,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,3,3,Manager,1,Married,Average,4,4,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,2,Manufacturing Director,3,Single,Poor,3,1,0,3
+Young,No,Non-Travel,Sales,Life Sciences,4,Female,3,3,Sales Executive,3,Divorced,Average,3,1,1,2
+MiddleAge,No,Non-Travel,Sales,Medical,3,Male,1,2,Sales Executive,2,Single,Poor,3,1,0,3
+Young,Yes,Travel_Frequently,Sales,Life Sciences,4,Female,3,1,Sales Representative,2,Single,Poor,3,1,0,4
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,1,Married,Poor,3,3,0,4
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,3,4,Manager,3,Married,Rich,3,4,0,2
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,1,5,Manager,3,Married,Rich,3,4,1,3
+Old,No,Travel_Rarely,Human Resources,Life Sciences,4,Male,3,5,Manager,2,Single,Rich,3,1,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,Divorced,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,4,Divorced,Average,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Research Scientist,4,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Frequently,Sales,Marketing,3,Female,3,2,Sales Executive,1,Divorced,Poor,3,4,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,3,2,Research Scientist,3,Single,Poor,3,2,0,3
+Old,No,Travel_Rarely,Human Resources,Life Sciences,3,Male,3,4,Manager,2,Divorced,Rich,3,2,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Female,3,2,Sales Executive,1,Divorced,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,3,Female,3,2,Sales Executive,1,Single,Poor,3,4,0,4
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,Married,Poor,3,3,3,2
+Old,Yes,Travel_Rarely,Research & Development,Medical,3,Female,2,3,Manufacturing Director,1,Married,Average,3,4,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,2,Married,Poor,4,3,1,3
+MiddleAge,No,Travel_Frequently,Sales,Marketing,1,Female,4,2,Sales Executive,1,Married,Poor,3,4,1,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,4,Single,Average,3,3,0,3
+Young,No,Travel_Rarely,Sales,Medical,3,Female,4,1,Sales Representative,4,Married,Poor,3,2,1,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,2,4,Manufacturing Director,2,Single,Average,3,2,0,2
+Young,No,Non-Travel,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,4,Single,Poor,3,3,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,2,2,Laboratory Technician,4,Married,Poor,3,2,1,3
+Young,No,Travel_Frequently,Sales,Life Sciences,4,Male,1,2,Sales Executive,4,Single,Poor,4,2,0,3
+Old,Yes,Travel_Rarely,Sales,Marketing,1,Male,4,4,Sales Executive,3,Single,Rich,3,3,0,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,4,Manufacturing Director,2,Married,Average,3,1,1,3
+MiddleAge,No,Non-Travel,Research & Development,Technical Degree,1,Female,2,1,Research Scientist,3,Divorced,Poor,4,3,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,4,2,Healthcare Representative,3,Divorced,Poor,4,2,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,3,2,Laboratory Technician,3,Married,Poor,3,1,2,3
+Young,Yes,Travel_Frequently,Sales,Life Sciences,3,Female,2,1,Sales Representative,4,Single,Poor,3,3,0,4
+MiddleAge,Yes,Travel_Frequently,Sales,Marketing,4,Female,3,2,Sales Executive,3,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,3,Divorced,Poor,3,4,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,3,Female,3,2,Healthcare Representative,4,Single,Poor,3,4,0,4
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Male,2,2,Sales Executive,1,Married,Poor,3,3,1,3
+Young,Yes,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Manufacturing Director,3,Married,Poor,3,4,2,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Male,2,2,Sales Executive,4,Married,Poor,3,4,2,4
+Old,No,Travel_Frequently,Sales,Marketing,2,Male,3,3,Sales Executive,2,Married,Average,3,2,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,4,Divorced,Poor,3,1,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,3,Married,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,2,Male,3,2,Sales Executive,4,Married,Average,3,1,0,4
+Young,No,Travel_Rarely,Sales,Marketing,3,Male,3,2,Sales Executive,2,Married,Poor,3,1,3,2
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,3,3,Healthcare Representative,3,Married,Average,4,2,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,1,Male,4,2,Sales Executive,3,Married,Poor,3,2,0,2
+Old,No,Travel_Frequently,Research & Development,Medical,4,Female,4,4,Manufacturing Director,3,Married,Average,3,2,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,2,2,Research Scientist,3,Single,Poor,3,1,0,1
+Young,No,Travel_Rarely,Sales,Marketing,4,Female,2,2,Sales Executive,4,Married,Poor,3,4,0,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,1,Male,2,1,Research Scientist,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Human Resources,Human Resources,3,Female,3,4,Manager,1,Married,Rich,3,3,1,3
+Old,No,Travel_Rarely,Research & Development,Other,3,Female,3,1,Laboratory Technician,1,Married,Poor,3,3,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,3,1,Laboratory Technician,3,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,3,3,Manufacturing Director,4,Single,Average,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,1,Male,3,1,Laboratory Technician,4,Married,Poor,3,2,1,2
+Young,No,Travel_Rarely,Research & Development,Other,3,Male,4,1,Laboratory Technician,1,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Human Resources,Other,2,Male,2,3,Human Resources,1,Single,Average,3,1,0,2
+Old,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Male,2,2,Laboratory Technician,1,Single,Poor,4,1,0,3
+Young,Yes,Travel_Frequently,Research & Development,Other,3,Female,3,3,Healthcare Representative,4,Single,Average,3,1,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,4,Research Director,4,Single,Rich,3,4,0,2
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,5,Research Director,1,Married,Rich,4,3,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,2,Male,4,4,Research Director,4,Divorced,Rich,3,4,2,4
+MiddleAge,No,Travel_Rarely,Sales,Marketing,1,Female,3,2,Sales Executive,2,Single,Average,3,4,0,3
+Young,Yes,Travel_Frequently,Sales,Life Sciences,2,Female,1,1,Sales Representative,3,Single,Poor,3,2,0,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Female,3,2,Sales Executive,1,Divorced,Poor,3,2,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,4,Research Director,2,Single,Rich,3,3,0,4
+MiddleAge,No,Travel_Frequently,Research & Development,Other,4,Male,3,1,Research Scientist,1,Divorced,Poor,3,3,2,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Female,2,1,Research Scientist,2,Single,Poor,3,3,0,4
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,1,Married,Poor,3,2,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,2,Laboratory Technician,4,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Female,2,2,Sales Executive,1,Married,Poor,3,1,2,2
+Old,No,Travel_Rarely,Research & Development,Technical Degree,1,Male,3,1,Research Scientist,4,Married,Poor,3,3,1,2
+Young,Yes,Travel_Rarely,Sales,Life Sciences,1,Male,2,1,Sales Representative,1,Married,Poor,3,1,0,3
+MiddleAge,No,Non-Travel,Research & Development,Technical Degree,3,Male,4,1,Laboratory Technician,3,Single,Poor,3,1,0,1
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,1,Married,Poor,4,4,1,4
+Old,No,Travel_Rarely,Research & Development,Medical,1,Female,3,4,Research Director,3,Married,Rich,3,2,2,4
+Young,No,Travel_Rarely,Sales,Medical,4,Female,3,2,Sales Executive,3,Married,Poor,3,3,2,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Male,3,2,Sales Executive,4,Married,Average,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,1,Laboratory Technician,2,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,4,1,Research Scientist,3,Married,Poor,3,1,0,2
+MiddleAge,No,Non-Travel,Research & Development,Other,3,Male,3,2,Laboratory Technician,3,Divorced,Poor,3,3,2,4
+Young,No,Travel_Rarely,Sales,Life Sciences,1,Male,3,3,Sales Executive,4,Divorced,Average,3,1,1,3
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,1,Male,3,3,Sales Executive,4,Divorced,Average,3,1,1,4
+MiddleAge,Yes,Non-Travel,Research & Development,Life Sciences,1,Female,2,1,Laboratory Technician,1,Single,Poor,4,2,0,4
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,3,Female,4,3,Manufacturing Director,2,Single,Average,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,1,3,Healthcare Representative,1,Divorced,Average,3,2,1,3
+Young,No,Travel_Rarely,Human Resources,Medical,4,Female,4,1,Human Resources,2,Single,Poor,3,4,0,3
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,4,Married,Poor,3,3,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,2,Male,3,3,Manufacturing Director,4,Married,Average,3,4,2,4
+Old,No,Travel_Rarely,Sales,Marketing,3,Male,3,2,Sales Executive,1,Divorced,Poor,3,1,3,3
+MiddleAge,Yes,Travel_Rarely,Human Resources,Technical Degree,1,Female,3,1,Human Resources,3,Married,Poor,3,4,0,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,4,Male,2,3,Research Director,2,Divorced,Rich,3,3,1,3
+Young,No,Travel_Rarely,Sales,Medical,4,Male,3,2,Sales Executive,1,Single,Average,3,4,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,3,Single,Poor,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Male,4,4,Research Director,2,Single,Rich,3,2,0,2
+Old,No,Travel_Rarely,Research & Development,Technical Degree,1,Male,3,2,Healthcare Representative,3,Married,Poor,3,2,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,3,Divorced,Poor,3,3,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,2,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Frequently,Sales,Medical,4,Male,3,2,Sales Executive,1,Married,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Sales,Other,4,Male,1,2,Sales Executive,1,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,Married,Poor,3,3,2,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,1,Female,3,1,Laboratory Technician,4,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Frequently,Sales,Marketing,1,Female,3,2,Sales Executive,3,Married,Poor,3,3,1,2
+Young,No,Non-Travel,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,3,Divorced,Poor,3,2,2,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,4,2,Research Scientist,3,Married,Poor,4,1,1,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,3,Healthcare Representative,2,Divorced,Average,3,2,2,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Male,3,4,Research Director,1,Divorced,Rich,3,4,2,2
+Young,Yes,Travel_Frequently,Sales,Technical Degree,1,Male,3,1,Sales Representative,3,Married,Poor,3,4,1,4
+Young,Yes,Travel_Frequently,Sales,Technical Degree,1,Female,3,2,Sales Executive,2,Single,Poor,3,1,0,1
+MiddleAge,Yes,Travel_Rarely,Sales,Medical,1,Female,2,2,Sales Executive,2,Single,Poor,4,3,0,4
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,1,Sales Representative,3,Married,Poor,3,1,1,3
+Young,Yes,Travel_Frequently,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,Single,Poor,3,3,0,2
+Young,No,Non-Travel,Sales,Life Sciences,4,Female,3,1,Sales Representative,2,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Male,3,3,Manufacturing Director,3,Single,Average,3,2,0,2
+Young,No,Travel_Rarely,Sales,Life Sciences,3,Male,2,2,Sales Executive,3,Divorced,Average,3,3,2,3
+Young,No,Travel_Rarely,Human Resources,Life Sciences,3,Male,3,1,Human Resources,3,Divorced,Poor,4,1,1,4
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,3,Married,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,2,1,Laboratory Technician,2,Married,Poor,3,4,0,3
+Old,No,Travel_Rarely,Sales,Medical,3,Female,3,2,Sales Executive,3,Married,Poor,3,3,1,2
+Young,Yes,Travel_Frequently,Research & Development,Medical,3,Male,2,1,Laboratory Technician,1,Single,Poor,3,3,0,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,2,1,Research Scientist,3,Divorced,Poor,3,4,1,1
+Young,No,Travel_Frequently,Sales,Life Sciences,3,Male,3,2,Sales Executive,1,Single,Poor,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Medical,3,Female,2,2,Laboratory Technician,1,Married,Poor,4,1,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,2,Married,Poor,3,3,3,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,1,2,Manufacturing Director,2,Married,Poor,3,2,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,3,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,3,Manager,4,Single,Average,4,2,0,4
+Old,No,Travel_Frequently,Research & Development,Medical,2,Female,3,4,Manager,4,Divorced,Rich,4,1,1,3
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,1,Male,2,1,Research Scientist,1,Single,Poor,3,3,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,4,Research Director,1,Married,Rich,3,3,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,3,Manufacturing Director,2,Single,Average,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,4,Manager,2,Married,Rich,3,4,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,3,Healthcare Representative,2,Single,Average,3,4,0,1
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,2,Laboratory Technician,3,Single,Poor,3,2,0,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,1,Single,Poor,3,2,0,1
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,4,Male,2,3,Sales Executive,3,Married,Poor,3,4,0,3
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,1,Research Scientist,3,Single,Poor,3,1,0,1
+Old,No,Travel_Frequently,Research & Development,Medical,3,Male,1,4,Research Director,4,Single,Rich,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,2,Male,3,1,Sales Representative,3,Married,Poor,4,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,2,1,Laboratory Technician,2,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,3,2,Research Scientist,4,Married,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Other,3,Female,1,2,Healthcare Representative,1,Married,Average,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,2,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,4,Married,Poor,4,4,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,4,Married,Average,3,3,1,1
+MiddleAge,No,Travel_Rarely,Sales,Medical,1,Male,3,2,Sales Executive,1,Married,Poor,3,4,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,2,Laboratory Technician,3,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Human Resources,Medical,3,Male,3,4,Manager,4,Single,Rich,4,4,0,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,3,Male,2,1,Laboratory Technician,1,Divorced,Poor,3,2,3,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,4,Divorced,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,1,Male,3,3,Healthcare Representative,2,Divorced,Average,3,1,3,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Female,2,1,Sales Representative,3,Married,Poor,4,1,2,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,2,Research Scientist,2,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,1,Sales Representative,4,Single,Poor,4,4,0,2
+Old,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,2,Sales Executive,3,Divorced,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,4,1,Research Scientist,3,Married,Poor,3,1,2,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Male,3,2,Sales Executive,1,Married,Poor,3,4,1,1
+Young,Yes,Travel_Rarely,Sales,Life Sciences,2,Male,2,2,Sales Executive,1,Married,Average,3,4,1,3
+MiddleAge,No,Travel_Frequently,Human Resources,Human Resources,3,Male,3,2,Human Resources,3,Married,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Laboratory Technician,1,Single,Poor,3,2,0,3
+Young,No,Travel_Rarely,Sales,Technical Degree,3,Male,3,3,Sales Executive,2,Married,Average,3,2,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Laboratory Technician,1,Divorced,Poor,3,4,1,3
+Old,Yes,Travel_Rarely,Research & Development,Technical Degree,3,Female,2,3,Manufacturing Director,4,Married,Average,3,2,1,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,3,Male,3,2,Manufacturing Director,2,Married,Poor,3,1,2,3
+Young,No,Non-Travel,Research & Development,Technical Degree,4,Male,3,2,Research Scientist,1,Married,Poor,3,2,1,2
+Old,No,Travel_Rarely,Research & Development,Other,3,Female,3,1,Research Scientist,1,Married,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Research Scientist,4,Single,Poor,3,3,0,1
+Old,No,Travel_Rarely,Sales,Marketing,3,Male,2,5,Manager,4,Married,Rich,4,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,2,Research Scientist,4,Married,Poor,3,2,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,1,Research Scientist,4,Married,Poor,4,1,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,2,Sales Executive,2,Married,Average,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Female,3,2,Sales Executive,2,Single,Poor,3,2,0,4
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,2,Female,3,2,Sales Executive,3,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,3,2,Healthcare Representative,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,4,Male,4,3,Sales Executive,3,Married,Average,3,1,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,4,Divorced,Average,3,4,1,4
+Old,No,Travel_Rarely,Sales,Marketing,3,Male,3,5,Manager,3,Married,Rich,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,4,1,Research Scientist,3,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,4,2,Laboratory Technician,1,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Male,2,5,Manager,4,Single,Rich,4,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,4,2,Laboratory Technician,3,Married,Poor,3,4,2,2
+MiddleAge,No,Travel_Frequently,Research & Development,Technical Degree,4,Male,2,2,Healthcare Representative,3,Married,Poor,3,2,1,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Female,3,2,Sales Executive,1,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,4,1,Laboratory Technician,2,Divorced,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,1,Laboratory Technician,4,Married,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Male,4,4,Manager,1,Single,Rich,3,2,0,1
+Young,Yes,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Laboratory Technician,2,Married,Poor,3,3,3,3
+Young,No,Non-Travel,Research & Development,Other,2,Female,2,1,Research Scientist,3,Married,Poor,3,2,0,2
+Old,No,Travel_Frequently,Research & Development,Medical,2,Male,3,4,Healthcare Representative,3,Married,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Other,2,Female,4,1,Research Scientist,4,Married,Poor,3,4,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,3,5,Research Director,4,Divorced,Rich,3,4,1,2
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,2,1,Research Scientist,2,Married,Poor,3,2,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,1,2,Laboratory Technician,1,Single,Poor,3,1,0,3
+MiddleAge,No,Non-Travel,Sales,Marketing,1,Male,2,2,Sales Executive,1,Married,Poor,3,1,1,3
+Young,No,Travel_Frequently,Sales,Other,4,Male,3,2,Sales Executive,1,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,2,Manufacturing Director,3,Married,Poor,3,2,2,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,4,2,Manufacturing Director,4,Divorced,Poor,3,1,1,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,1,Married,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,3,2,Manufacturing Director,1,Married,Poor,3,4,3,3
+Young,No,Travel_Rarely,Research & Development,Other,4,Male,2,1,Laboratory Technician,1,Divorced,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,4,2,Research Scientist,1,Married,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,1,2,Manufacturing Director,1,Divorced,Poor,4,2,1,2
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Research Scientist,4,Single,Poor,3,3,0,3
+Young,Yes,Travel_Frequently,Sales,Medical,2,Female,3,1,Sales Representative,4,Single,Poor,3,3,0,4
+Old,No,Travel_Rarely,Human Resources,Life Sciences,4,Female,3,5,Manager,3,Married,Rich,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,2,2,Laboratory Technician,3,Divorced,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,2,3,Manufacturing Director,3,Married,Average,3,4,2,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Female,3,2,Healthcare Representative,3,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Manufacturing Director,3,Married,Poor,3,1,3,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,1,Female,3,2,Manufacturing Director,3,Single,Poor,3,4,0,1
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Female,2,2,Manufacturing Director,4,Divorced,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,2,3,Manufacturing Director,3,Married,Average,3,4,1,4
+MiddleAge,Yes,Travel_Rarely,Sales,Medical,4,Male,2,3,Sales Executive,1,Married,Average,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,3,1,Research Scientist,2,Married,Poor,3,1,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,3,Manufacturing Director,4,Single,Average,3,4,0,2
+MiddleAge,No,Travel_Frequently,Human Resources,Human Resources,1,Male,3,2,Human Resources,4,Married,Poor,3,3,0,3
+Old,No,Travel_Frequently,Research & Development,Medical,3,Male,2,4,Manager,4,Married,Rich,4,2,1,3
+MiddleAge,Yes,Travel_Rarely,Sales,Medical,1,Male,1,2,Sales Executive,4,Divorced,Poor,3,4,2,2
+Young,No,Travel_Frequently,Research & Development,Technical Degree,1,Female,3,1,Research Scientist,4,Single,Poor,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Female,4,1,Research Scientist,3,Married,Poor,3,1,0,3
+Young,No,Travel_Frequently,Research & Development,Medical,4,Male,3,1,Research Scientist,4,Single,Poor,3,3,0,2
+MiddleAge,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,1,Single,Poor,3,2,0,1
+Young,No,Travel_Rarely,Sales,Medical,3,Male,2,2,Sales Executive,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,3,Healthcare Representative,1,Married,Average,3,3,2,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,4,2,Manufacturing Director,3,Divorced,Poor,3,3,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Manufacturing Director,2,Married,Poor,4,3,0,3
+Old,No,Travel_Rarely,Research & Development,Other,1,Female,3,4,Research Director,2,Married,Rich,3,2,2,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,2,3,Research Director,1,Divorced,Average,3,3,3,3
+Young,No,Travel_Rarely,Sales,Medical,3,Female,3,1,Sales Representative,3,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Female,3,2,Research Scientist,2,Divorced,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,2,Single,Poor,3,3,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,4,Healthcare Representative,3,Married,Rich,3,2,1,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,4,Female,2,2,Manufacturing Director,3,Married,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,4,2,Healthcare Representative,1,Divorced,Poor,4,1,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,2,Female,3,4,Manager,3,Married,Rich,4,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,4,Research Director,3,Married,Rich,4,1,1,3
+MiddleAge,Yes,Travel_Frequently,Sales,Other,4,Male,3,2,Sales Executive,4,Single,Poor,4,1,0,4
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,2,Research Scientist,4,Married,Poor,3,4,2,4
+Young,No,Travel_Rarely,Sales,Medical,1,Male,2,2,Sales Executive,2,Divorced,Poor,3,2,1,2
+MiddleAge,No,Travel_Rarely,Sales,Medical,4,Male,3,2,Sales Executive,4,Divorced,Poor,3,3,2,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Research Scientist,2,Divorced,Poor,3,3,2,2
+Young,No,Travel_Rarely,Sales,Life Sciences,1,Female,3,2,Sales Executive,4,Married,Poor,3,1,2,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Laboratory Technician,1,Divorced,Poor,3,2,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Female,2,1,Laboratory Technician,2,Single,Poor,4,2,0,3
+Old,No,Travel_Rarely,Sales,Life Sciences,2,Female,4,4,Manager,2,Divorced,Rich,3,3,3,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,4,Manager,3,Single,Rich,3,1,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,3,Sales Executive,3,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,1,Sales Representative,1,Single,Poor,3,1,0,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,3,Female,3,2,Sales Executive,4,Divorced,Poor,4,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,3,Married,Poor,3,2,2,2
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,3,Female,3,1,Human Resources,4,Divorced,Poor,3,1,3,3
+Young,Yes,Travel_Rarely,Research & Development,Medical,4,Male,2,1,Laboratory Technician,3,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Laboratory Technician,3,Married,Poor,3,4,1,2
+Old,No,Travel_Rarely,Research & Development,Medical,2,Male,4,3,Healthcare Representative,4,Married,Poor,3,3,0,3
+Old,Yes,Travel_Frequently,Sales,Medical,4,Female,3,1,Sales Representative,3,Married,Poor,3,3,2,3
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,2,Single,Poor,3,1,0,3
+Young,No,Non-Travel,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,Single,Poor,4,3,0,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,1,Male,2,1,Research Scientist,2,Divorced,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,2,2,Laboratory Technician,4,Married,Poor,3,3,1,4
+Old,No,Travel_Rarely,Research & Development,Medical,3,Male,1,3,Healthcare Representative,4,Divorced,Average,4,3,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,4,1,Laboratory Technician,2,Married,Poor,3,4,3,3
+MiddleAge,No,Travel_Frequently,Sales,Medical,3,Male,1,2,Sales Executive,4,Divorced,Average,3,3,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,4,Married,Poor,3,2,0,3
+Young,Yes,Travel_Rarely,Sales,Life Sciences,3,Male,3,1,Sales Representative,4,Divorced,Poor,4,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,4,3,Healthcare Representative,4,Married,Average,3,2,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,1,Male,2,1,Research Scientist,4,Single,Poor,3,3,0,4
+MiddleAge,No,Travel_Rarely,Sales,Medical,4,Male,3,2,Sales Executive,4,Married,Average,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,4,1,Research Scientist,3,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Male,3,3,Sales Executive,3,Single,Average,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,3,1,Laboratory Technician,3,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,2,Sales Representative,4,Single,Poor,3,3,0,2
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,3,Male,2,3,Healthcare Representative,3,Married,Average,4,4,1,2
+Young,Yes,Travel_Rarely,Human Resources,Human Resources,4,Male,1,1,Human Resources,3,Married,Poor,3,3,1,3
+Old,Yes,Travel_Frequently,Sales,Life Sciences,3,Male,1,4,Sales Executive,3,Married,Average,3,3,0,1
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,1,1,Laboratory Technician,3,Married,Poor,3,3,3,4
+MiddleAge,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,2,4,Research Director,2,Single,Rich,3,3,0,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,Married,Poor,3,1,1,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Laboratory Technician,3,Married,Poor,3,4,1,4
+MiddleAge,No,Non-Travel,Human Resources,Human Resources,3,Male,1,2,Human Resources,2,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,2,Manufacturing Director,1,Married,Poor,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Laboratory Technician,1,Divorced,Poor,3,2,3,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,2,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Manufacturing Director,3,Married,Poor,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,Married,Poor,3,2,1,2
+Old,No,Non-Travel,Sales,Marketing,3,Male,3,2,Sales Executive,2,Married,Poor,3,4,1,1
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,3,Sales Executive,4,Divorced,Average,3,2,1,2
+MiddleAge,Yes,Travel_Rarely,Sales,Marketing,2,Male,2,2,Sales Executive,1,Divorced,Poor,3,2,3,3
+Young,Yes,Travel_Rarely,Sales,Life Sciences,1,Male,1,2,Sales Executive,2,Single,Poor,3,2,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Laboratory Technician,2,Single,Poor,3,3,0,1
+Young,No,Travel_Frequently,Research & Development,Technical Degree,4,Female,3,2,Manufacturing Director,4,Single,Poor,4,4,0,2
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,4,Married,Poor,3,4,1,3
+Young,No,Travel_Rarely,Sales,Life Sciences,4,Male,1,3,Sales Executive,3,Married,Average,3,3,1,1
+MiddleAge,No,Travel_Rarely,Sales,Medical,2,Male,3,5,Manager,2,Single,Rich,3,2,0,2
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,3,Female,1,3,Human Resources,3,Married,Average,4,3,2,4
+Young,No,Travel_Frequently,Research & Development,Technical Degree,4,Female,2,1,Research Scientist,1,Single,Poor,3,4,0,3
+Young,No,Travel_Frequently,Human Resources,Medical,1,Male,3,1,Human Resources,4,Married,Poor,3,4,1,3
+Young,Yes,Travel_Frequently,Human Resources,Human Resources,3,Female,2,1,Human Resources,4,Divorced,Poor,3,3,1,2
+Young,No,Travel_Rarely,Sales,Technical Degree,1,Male,3,2,Sales Executive,3,Married,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Research Scientist,4,Single,Poor,3,3,0,2
+Young,Yes,Travel_Rarely,Sales,Marketing,2,Female,1,1,Sales Representative,2,Single,Poor,3,3,0,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,4,2,Healthcare Representative,3,Single,Poor,3,4,0,4
+Young,No,Travel_Rarely,Sales,Marketing,3,Male,2,3,Sales Executive,1,Divorced,Poor,3,1,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,4,1,Research Scientist,4,Married,Poor,3,1,3,3
+MiddleAge,No,Non-Travel,Sales,Marketing,4,Female,3,2,Sales Executive,2,Single,Poor,3,4,0,2
+Old,No,Travel_Rarely,Sales,Marketing,4,Female,3,2,Sales Executive,4,Single,Poor,3,3,0,4
+MiddleAge,Yes,Travel_Rarely,Sales,Life Sciences,1,Female,3,3,Sales Executive,1,Single,Average,4,3,0,2
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Female,2,1,Laboratory Technician,2,Married,Poor,3,2,1,2
+Young,Yes,Travel_Rarely,Sales,Marketing,1,Male,3,3,Sales Executive,3,Married,Average,3,1,3,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Female,2,1,Research Scientist,1,Divorced,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,4,2,Healthcare Representative,3,Married,Poor,3,3,1,3
+Young,No,Non-Travel,Research & Development,Technical Degree,2,Male,3,1,Research Scientist,2,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,1,2,Healthcare Representative,4,Married,Poor,3,3,1,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Technical Degree,3,Male,2,1,Research Scientist,3,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Laboratory Technician,2,Divorced,Poor,4,2,3,2
+Old,No,Travel_Rarely,Research & Development,Medical,3,Male,2,5,Research Director,1,Married,Rich,3,2,3,3
+MiddleAge,No,Non-Travel,Research & Development,Technical Degree,4,Male,3,2,Research Scientist,2,Divorced,Poor,3,4,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Laboratory Technician,1,Divorced,Poor,4,2,2,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,4,Male,3,2,Sales Executive,3,Divorced,Poor,3,3,1,3
+Old,No,Non-Travel,Research & Development,Medical,1,Female,2,4,Manufacturing Director,3,Married,Average,4,4,3,2
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,2,Male,3,1,Human Resources,4,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Female,1,2,Sales Executive,4,Single,Poor,3,1,0,3
+Young,Yes,Travel_Rarely,Sales,Marketing,2,Male,3,1,Sales Representative,2,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Female,2,1,Laboratory Technician,3,Married,Poor,3,2,1,3
+Young,Yes,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Laboratory Technician,1,Married,Poor,3,3,0,3
+Young,No,Travel_Rarely,Sales,Marketing,1,Female,2,2,Sales Executive,4,Married,Poor,3,1,2,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,1,Female,3,3,Manager,3,Married,Average,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,2,2,Sales Executive,2,Married,Poor,3,1,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,5,Research Director,4,Divorced,Rich,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,3,Healthcare Representative,1,Married,Average,3,4,1,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Medical,3,Male,3,1,Research Scientist,2,Divorced,Poor,3,3,3,2
+MiddleAge,No,Travel_Rarely,Human Resources,Other,3,Male,3,2,Human Resources,2,Divorced,Poor,3,3,0,2
+MiddleAge,Yes,Travel_Rarely,Sales,Life Sciences,3,Male,3,2,Sales Executive,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,4,1,Research Scientist,1,Married,Poor,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,3,1,Research Scientist,4,Married,Poor,3,3,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,3,Research Director,3,Single,Average,4,3,0,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,2,Male,2,2,Sales Executive,2,Single,Average,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,1,Laboratory Technician,1,Married,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,4,2,Healthcare Representative,1,Married,Poor,3,3,2,2
+MiddleAge,No,Non-Travel,Research & Development,Medical,2,Male,3,2,Manufacturing Director,4,Divorced,Poor,3,3,1,3
+MiddleAge,No,Non-Travel,Human Resources,Human Resources,1,Male,3,1,Human Resources,2,Divorced,Poor,3,4,3,3
+MiddleAge,Yes,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,2,Laboratory Technician,1,Married,Poor,3,3,1,2
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Manufacturing Director,1,Single,Poor,3,2,0,1
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,3,Male,3,2,Sales Executive,4,Divorced,Poor,3,4,1,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,1,Male,3,1,Research Scientist,3,Single,Poor,3,3,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,4,2,Healthcare Representative,2,Single,Poor,3,1,0,1
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Female,3,3,Sales Executive,3,Divorced,Average,3,4,1,4
+Young,No,Travel_Rarely,Research & Development,Medical,1,Female,3,3,Manufacturing Director,3,Single,Average,3,2,0,3
+Young,Yes,Travel_Rarely,Human Resources,Medical,4,Female,3,1,Human Resources,2,Married,Poor,3,3,0,3
+MiddleAge,Yes,Travel_Rarely,Research & Development,Medical,4,Female,3,2,Healthcare Representative,2,Married,Average,4,4,1,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,3,2,Healthcare Representative,4,Divorced,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,2,Male,4,2,Sales Executive,3,Married,Poor,4,3,2,3
+Old,No,Non-Travel,Sales,Medical,2,Male,3,4,Manager,2,Divorced,Rich,4,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,1,1,Laboratory Technician,3,Married,Poor,3,2,1,4
+Old,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,3,Manufacturing Director,2,Divorced,Average,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,2,Healthcare Representative,1,Divorced,Poor,3,2,1,3
+Old,No,Travel_Rarely,Research & Development,Medical,4,Female,3,2,Research Scientist,4,Married,Poor,3,2,1,2
+Young,No,Travel_Frequently,Sales,Marketing,1,Female,3,3,Sales Executive,1,Married,Average,3,4,2,3
+Young,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Research Scientist,1,Married,Poor,4,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Female,1,2,Sales Representative,4,Married,Poor,4,1,2,2
+Young,No,Travel_Rarely,Sales,Medical,3,Male,3,2,Sales Executive,4,Single,Poor,3,1,0,3
+Old,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,3,4,Research Director,3,Married,Rich,3,2,0,3
+Young,No,Non-Travel,Research & Development,Medical,2,Female,3,1,Research Scientist,3,Single,Poor,3,3,0,1
+Young,Yes,Travel_Rarely,Human Resources,Human Resources,4,Male,4,1,Human Resources,1,Married,Poor,3,3,0,3
+Young,Yes,Travel_Rarely,Human Resources,Human Resources,1,Male,2,1,Human Resources,1,Divorced,Poor,3,4,3,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,3,Female,3,2,Sales Executive,3,Married,Poor,4,2,2,4
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Female,3,2,Research Scientist,2,Married,Poor,4,4,1,3
+MiddleAge,No,Travel_Frequently,Sales,Life Sciences,1,Male,3,2,Sales Executive,4,Married,Poor,4,3,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,1,Laboratory Technician,4,Single,Poor,3,3,0,2
+Young,No,Travel_Frequently,Research & Development,Medical,4,Male,3,1,Laboratory Technician,4,Married,Poor,3,2,0,4
+Young,No,Travel_Frequently,Sales,Marketing,4,Male,3,2,Sales Executive,4,Single,Poor,3,3,0,4
+MiddleAge,No,Non-Travel,Research & Development,Technical Degree,3,Male,3,1,Research Scientist,3,Married,Poor,4,2,2,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,3,1,Laboratory Technician,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,3,Manufacturing Director,4,Divorced,Average,3,3,1,2
+Young,No,Non-Travel,Human Resources,Life Sciences,3,Male,3,1,Human Resources,4,Divorced,Poor,3,2,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,1,2,Healthcare Representative,3,Divorced,Poor,3,4,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,3,Single,Poor,3,4,0,3
+Young,Yes,Travel_Rarely,Sales,Marketing,3,Male,2,2,Sales Executive,2,Single,Average,3,3,0,2
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,1,Female,4,4,Sales Executive,1,Divorced,Average,3,4,1,3
+Young,No,Travel_Rarely,Sales,Medical,2,Female,2,2,Sales Representative,3,Married,Poor,4,4,1,3
+Young,No,Travel_Rarely,Human Resources,Medical,4,Male,2,1,Human Resources,2,Married,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Female,2,5,Manager,3,Married,Rich,3,4,0,3
+Old,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,5,Research Director,2,Married,Rich,3,4,0,3
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,4,Male,2,1,Research Scientist,4,Single,Poor,4,2,0,2
+MiddleAge,Yes,Travel_Rarely,Sales,Life Sciences,3,Female,3,3,Sales Executive,2,Married,Poor,4,3,3,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,2,1,Research Scientist,1,Married,Poor,3,4,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Male,3,2,Research Scientist,4,Divorced,Poor,3,2,3,3
+Old,No,Travel_Rarely,Research & Development,Technical Degree,2,Male,2,1,Research Scientist,4,Married,Poor,4,2,1,4
+Young,No,Travel_Rarely,Sales,Medical,2,Female,3,1,Sales Representative,2,Married,Poor,3,4,1,3
+Young,Yes,Travel_Rarely,Sales,Medical,2,Male,3,1,Sales Representative,4,Single,Poor,3,3,0,2
+Young,Yes,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,2,Single,Poor,4,1,0,3
+MiddleAge,No,Travel_Rarely,Sales,Technical Degree,2,Female,2,2,Sales Executive,3,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,2,Laboratory Technician,3,Divorced,Poor,3,1,1,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,3,3,Sales Executive,4,Married,Average,3,4,3,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Laboratory Technician,1,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,2,Research Scientist,1,Married,Poor,4,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Other,4,Female,2,2,Manufacturing Director,2,Married,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,2,2,Manufacturing Director,4,Married,Poor,3,4,2,2
+MiddleAge,No,Travel_Frequently,Human Resources,Human Resources,2,Male,2,2,Human Resources,4,Single,Poor,4,4,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,4,Manager,1,Divorced,Rich,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Female,2,1,Research Scientist,3,Married,Poor,3,3,1,2
+Young,No,Travel_Rarely,Sales,Medical,1,Female,4,2,Sales Executive,3,Single,Poor,3,2,0,2
+Old,No,Travel_Frequently,Research & Development,Medical,4,Female,3,4,Manager,4,Divorced,Rich,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,4,2,Healthcare Representative,1,Married,Poor,3,4,1,3
+MiddleAge,Yes,Non-Travel,Research & Development,Technical Degree,4,Male,1,1,Research Scientist,1,Married,Poor,4,2,1,3
+Old,Yes,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Male,2,2,Sales Executive,2,Married,Poor,3,3,2,1
+MiddleAge,No,Travel_Rarely,Sales,Marketing,3,Female,3,2,Sales Executive,2,Married,Poor,4,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Male,3,3,Research Director,1,Married,Average,3,2,1,4
+Young,No,Travel_Rarely,Sales,Medical,3,Female,3,2,Sales Executive,4,Divorced,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,4,Female,2,2,Sales Executive,4,Married,Average,3,3,0,2
+Young,No,Travel_Rarely,Research & Development,Medical,1,Female,4,1,Laboratory Technician,3,Divorced,Poor,3,2,1,2
+Young,No,Travel_Frequently,Research & Development,Other,3,Male,4,1,Laboratory Technician,4,Married,Poor,3,1,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,2,Male,3,2,Healthcare Representative,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,3,2,Sales Executive,3,Single,Poor,3,2,0,2
+Young,No,Travel_Frequently,Sales,Life Sciences,3,Male,2,2,Sales Executive,4,Married,Poor,3,3,1,3
+Young,Yes,Travel_Frequently,Sales,Technical Degree,3,Male,4,1,Sales Representative,1,Single,Poor,3,4,0,3
+MiddleAge,No,Non-Travel,Sales,Life Sciences,1,Female,1,2,Sales Executive,3,Married,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,2,Male,3,1,Research Scientist,2,Married,Poor,3,3,1,2
+MiddleAge,No,Travel_Frequently,Research & Development,Other,3,Male,2,2,Research Scientist,4,Married,Poor,3,2,0,3
+Young,Yes,Travel_Rarely,Sales,Marketing,4,Female,3,2,Sales Executive,3,Single,Average,3,4,0,3
+Old,No,Non-Travel,Research & Development,Technical Degree,3,Male,3,2,Research Scientist,2,Married,Poor,3,3,1,4
+Old,No,Travel_Rarely,Sales,Marketing,4,Female,2,2,Sales Executive,1,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,1,Male,3,2,Manufacturing Director,1,Married,Poor,4,4,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,4,Female,2,2,Research Scientist,2,Divorced,Poor,3,3,1,3
+Old,No,Travel_Rarely,Sales,Life Sciences,4,Female,3,4,Manager,4,Married,Rich,3,3,1,2
+Young,Yes,Travel_Frequently,Research & Development,Life Sciences,1,Female,4,1,Research Scientist,3,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,3,1,Research Scientist,4,Divorced,Poor,3,4,2,4
+Old,No,Travel_Frequently,Research & Development,Life Sciences,2,Male,3,5,Research Director,4,Married,Rich,3,4,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,3,2,Sales Executive,4,Divorced,Poor,3,3,2,3
+Young,Yes,Travel_Frequently,Human Resources,Human Resources,1,Female,2,1,Human Resources,2,Married,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Sales,Medical,2,Male,3,2,Sales Executive,1,Married,Poor,3,4,1,1
+Young,No,Non-Travel,Research & Development,Medical,3,Male,3,1,Research Scientist,3,Single,Poor,3,3,0,2
+Young,No,Non-Travel,Research & Development,Medical,3,Male,3,1,Research Scientist,1,Divorced,Poor,3,4,1,4
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,1,Male,4,1,Laboratory Technician,2,Married,Poor,4,2,0,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,1,Male,3,3,Sales Executive,4,Single,Average,4,1,0,2
+MiddleAge,No,Travel_Rarely,Sales,Medical,4,Male,3,3,Sales Executive,3,Divorced,Average,3,3,1,2
+Young,No,Travel_Rarely,Research & Development,Medical,3,Male,3,1,Laboratory Technician,1,Single,Poor,3,4,0,2
+Young,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,2,Healthcare Representative,1,Married,Poor,3,1,1,2
+Young,No,Non-Travel,Research & Development,Medical,3,Female,3,2,Healthcare Representative,4,Divorced,Poor,3,2,1,3
+Young,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,1,2,Research Scientist,1,Married,Poor,4,2,0,3
+Young,Yes,Travel_Rarely,Research & Development,Technical Degree,3,Male,2,1,Laboratory Technician,4,Divorced,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Male,2,1,Sales Representative,1,Single,Poor,3,1,0,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Female,3,2,Sales Executive,4,Married,Poor,3,4,0,3
+Young,No,Travel_Rarely,Sales,Marketing,4,Male,3,2,Sales Executive,4,Single,Poor,3,1,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,2,2,Manufacturing Director,4,Single,Average,4,2,0,3
+Young,Yes,Travel_Frequently,Sales,Marketing,1,Male,3,2,Sales Executive,4,Married,Poor,3,3,0,3
+Old,Yes,Travel_Rarely,Sales,Life Sciences,1,Male,3,3,Sales Executive,1,Single,Average,3,2,0,2
+Old,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,3,2,Research Scientist,3,Married,Poor,3,3,2,2
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Male,3,2,Healthcare Representative,3,Divorced,Poor,4,3,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,3,Healthcare Representative,3,Married,Average,3,2,1,3
+MiddleAge,No,Travel_Frequently,Human Resources,Other,4,Male,3,1,Human Resources,2,Married,Poor,3,2,1,3
+Old,No,Travel_Rarely,Human Resources,Human Resources,3,Male,4,5,Manager,2,Married,Rich,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,1,1,Laboratory Technician,4,Divorced,Poor,3,3,3,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Male,3,4,Sales Executive,1,Single,Average,3,1,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Male,2,2,Research Scientist,3,Single,Poor,3,4,0,3
+Young,No,Non-Travel,Research & Development,Medical,3,Female,3,3,Research Director,3,Married,Average,4,3,1,4
+Old,No,Travel_Rarely,Research & Development,Medical,3,Female,3,2,Manufacturing Director,1,Single,Poor,3,4,0,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,2,2,Healthcare Representative,3,Single,Poor,3,2,0,2
+Young,No,Travel_Rarely,Research & Development,Other,4,Male,3,1,Laboratory Technician,4,Single,Poor,3,3,0,4
+MiddleAge,No,Travel_Frequently,Research & Development,Technical Degree,4,Female,3,2,Laboratory Technician,3,Married,Poor,3,1,1,4
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Female,3,2,Sales Executive,2,Married,Poor,3,3,1,3
+Young,No,Travel_Rarely,Human Resources,Human Resources,3,Female,3,1,Human Resources,2,Married,Poor,3,3,0,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Laboratory Technician,2,Married,Poor,3,3,0,2
+Young,No,Travel_Rarely,Research & Development,Other,4,Male,3,1,Laboratory Technician,3,Divorced,Poor,3,3,1,2
+Old,No,Travel_Rarely,Research & Development,Medical,1,Male,3,3,Healthcare Representative,3,Single,Average,4,2,0,3
+MiddleAge,No,Non-Travel,Research & Development,Medical,2,Male,2,1,Laboratory Technician,3,Divorced,Poor,3,3,3,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Male,3,2,Sales Executive,2,Married,Poor,3,1,2,3
+Young,No,Travel_Rarely,Sales,Life Sciences,1,Male,3,1,Sales Representative,3,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,1,Male,2,2,Manufacturing Director,3,Married,Poor,3,4,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,2,Research Scientist,1,Divorced,Poor,3,3,1,2
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,4,Married,Poor,4,1,1,3
+Old,No,Non-Travel,Research & Development,Medical,3,Female,3,3,Research Director,2,Married,Average,3,1,2,1
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,3,1,Laboratory Technician,3,Married,Poor,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,4,Male,3,1,Research Scientist,3,Single,Poor,3,4,0,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,3,2,Research Scientist,3,Single,Poor,3,2,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,3,2,Healthcare Representative,4,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,2,1,Laboratory Technician,2,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,1,Laboratory Technician,4,Married,Poor,3,3,2,2
+Young,No,Travel_Rarely,Sales,Medical,2,Male,2,1,Sales Representative,2,Married,Poor,3,2,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,2,Research Scientist,4,Single,Poor,3,1,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Female,1,3,Research Director,3,Married,Average,3,1,1,3
+Young,No,Travel_Rarely,Sales,Marketing,3,Female,3,3,Sales Executive,4,Married,Average,3,3,2,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,4,3,Research Director,4,Married,Rich,4,1,1,3
+Young,No,Travel_Rarely,Sales,Other,1,Female,3,2,Sales Executive,3,Divorced,Poor,4,2,1,2
+Old,No,Non-Travel,Sales,Life Sciences,1,Male,3,1,Sales Representative,4,Divorced,Poor,3,2,2,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,3,1,Research Scientist,4,Single,Poor,3,3,0,3
+Young,No,Travel_Rarely,Sales,Medical,3,Male,3,1,Sales Representative,1,Single,Poor,3,4,0,3
+MiddleAge,No,Non-Travel,Research & Development,Life Sciences,4,Male,3,5,Manager,4,Single,Rich,3,3,0,2
+Young,Yes,Travel_Frequently,Sales,Marketing,4,Male,3,1,Sales Representative,1,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Sales,Medical,1,Female,2,3,Sales Executive,4,Married,Average,3,3,2,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,4,Female,3,2,Manufacturing Director,2,Divorced,Poor,3,2,3,3
+Old,No,Non-Travel,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,3,Divorced,Poor,4,1,1,2
+Young,Yes,Travel_Rarely,Research & Development,Medical,1,Male,3,1,Research Scientist,4,Married,Poor,3,2,3,4
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Male,3,5,Manager,3,Married,Rich,3,1,0,2
+Old,Yes,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,1,Laboratory Technician,3,Married,Poor,3,4,1,1
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,1,Female,2,4,Manufacturing Director,2,Married,Average,4,3,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,4,Female,2,2,Sales Executive,3,Married,Poor,4,4,2,3
+MiddleAge,No,Non-Travel,Sales,Marketing,4,Male,1,2,Sales Executive,4,Divorced,Poor,4,1,1,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,3,Male,2,2,Sales Executive,2,Divorced,Average,3,3,1,3
+Young,No,Travel_Rarely,Research & Development,Technical Degree,4,Male,3,1,Research Scientist,1,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Rarely,Human Resources,Life Sciences,3,Female,3,3,Human Resources,4,Single,Average,3,3,0,3
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,1,Female,3,2,Sales Executive,4,Married,Poor,3,3,1,3
+Old,Yes,Travel_Frequently,Sales,Life Sciences,2,Male,3,2,Sales Executive,3,Divorced,Poor,3,4,2,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Female,2,2,Sales Executive,4,Married,Poor,3,1,1,2
+MiddleAge,No,Travel_Rarely,Sales,Life Sciences,4,Female,3,2,Sales Executive,3,Single,Poor,3,3,0,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Male,2,1,Research Scientist,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Life Sciences,3,Male,3,2,Healthcare Representative,3,Married,Poor,3,4,2,4
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,3,Female,3,1,Research Scientist,3,Married,Poor,3,2,3,3
+MiddleAge,No,Travel_Rarely,Research & Development,Life Sciences,3,Female,1,1,Research Scientist,4,Married,Poor,3,4,1,3
+Young,No,Travel_Rarely,Research & Development,Other,4,Male,2,2,Laboratory Technician,2,Married,Poor,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Medical,4,Female,2,1,Research Scientist,1,Single,Poor,3,2,0,1
+Old,Yes,Travel_Rarely,Sales,Marketing,4,Male,2,3,Sales Executive,1,Divorced,Average,3,2,1,3
+MiddleAge,No,Travel_Rarely,Sales,Marketing,2,Female,2,4,Sales Executive,4,Married,Average,3,1,1,2
+Young,No,Non-Travel,Research & Development,Medical,2,Male,3,2,Manufacturing Director,1,Single,Average,3,2,0,3
+Young,No,Travel_Rarely,Sales,Other,4,Female,2,1,Sales Representative,3,Single,Poor,3,4,0,3
+MiddleAge,No,Travel_Frequently,Research & Development,Medical,3,Male,4,2,Laboratory Technician,4,Married,Poor,3,3,1,3
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,4,Male,2,3,Healthcare Representative,1,Married,Average,3,1,1,3
+Young,No,Travel_Rarely,Research & Development,Life Sciences,2,Male,4,2,Manufacturing Director,2,Married,Poor,4,2,1,3
+Old,No,Travel_Frequently,Sales,Medical,4,Male,2,2,Sales Executive,2,Married,Poor,3,4,0,2
+MiddleAge,No,Travel_Rarely,Research & Development,Medical,2,Male,4,2,Laboratory Technician,3,Married,Poor,3,1,0,4
