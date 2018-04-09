@@ -36,7 +36,7 @@ $ pip install imblearn
 
 > Our client is IBM a leading firm and is doing well in the sector. It is recently facing a steep increase in its employee attrition . Employee attrition has gone up from 14% to 25% in the last 1 year . We are asked to prepare a strategy to immediately tackle this issue such that the firm’s business is not hampered and also to propose an efficient employee satisfaction program for long run. Currently, no such program is in place . Further salary hikes are not an option.
 
-The slides are [here](IGORandMillicentWillgive.com)
+The slides are [here](https://github.com/mmd52/3XDataMining/blob/master/Attrition%20Management.pdf)
 
 ##### Exploratory Data analysis
 * Data is imbalance by class we have 83% who have not left the company and 17% who have left the company
@@ -56,7 +56,7 @@ The slides are [here](IGORandMillicentWillgive.com)
 * * Life balance having value 1
 * * Employee staying at distant place
 * * Environment Satisfaction value 1
-* Link to Tableau workbook for EDA is [here](SanchitaWillGiveLinkToUpdate.com)
+* Link to Tableau workbook for EDA is [here](https://github.com/mmd52/3XDataMining/blob/master/IBM_Attrition.twbx)
 
 ##### Feature Selection
 > 3 Methods were employed for feature selection, first one was to use those variables which a model thought was relevant like a decision tree or SVM. link to code is [here](https://github.com/mmd52/3XDataMining/blob/master/Feature_Selection.ipynb)
