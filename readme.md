@@ -36,7 +36,8 @@ $ pip install imblearn
 
 > Our client is IBM a leading firm and is doing well in the sector. It is recently facing a steep increase in its employee attrition . Employee attrition has gone up from 14% to 25% in the last 1 year . We are asked to prepare a strategy to immediately tackle this issue such that the firm’s business is not hampered and also to propose an efficient employee satisfaction program for long run. Currently, no such program is in place . Further salary hikes are not an option.
 
-The slides are [here](https://github.com/mmd52/3XDataMining/blob/master/Attrition%20Management.pdf)
+* The slides are [here](https://github.com/mmd52/3XDataMining/blob/master/Attrition%20Management.pdf)
+* The Report is [here](https://github.com/mmd52/3XDataMining/blob/master/3x.pdf)
 
 ##### Exploratory Data analysis
 * Data is imbalance by class we have 83% who have not left the company and 17% who have left the company
