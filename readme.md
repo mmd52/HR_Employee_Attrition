@@ -58,6 +58,7 @@ $ pip install imblearn
 * * Employee staying at distant place
 * * Environment Satisfaction value 1
 * Link to Tableau workbook for EDA is [here](https://github.com/mmd52/3XDataMining/blob/master/IBM_Attrition.twbx)
+* Link to Tableau output is [here](https://github.com/mmd52/3XDataMining/blob/master/IBM_Attrition.pdf)
 
 ##### Feature Selection
 > 3 Methods were employed for feature selection, first one was to use those variables which a model thought was relevant like a decision tree or SVM. link to code is [here](https://github.com/mmd52/3XDataMining/blob/master/Feature_Selection.ipynb)
