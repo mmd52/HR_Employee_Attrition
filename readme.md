@@ -83,6 +83,7 @@ In order to find a model which could help with the prediction process we ran sev
 * [Support Vector Machines](https://github.com/mmd52/3XDataMining/blob/master/ModelingSVM_Final.ipynb)
 * [Artificial Neural Networks](https://github.com/mmd52/3XDataMining/blob/master/ANN.ipynb)
 * [Extreme Gradient Boosting](https://github.com/mmd52/3XDataMining/blob/master/XGBoost.ipynb)
+* [Stacking a XGBOOST on a decsion tree](https://github.com/mmd52/3XDataMining/blob/master/XGBoost_Stacker.ipynb)
 
 Summary:
 * Decision tree with smote dataset 2 ACC-> 92.22% ROC-> 0.92 KAPPA-> 0.84 
