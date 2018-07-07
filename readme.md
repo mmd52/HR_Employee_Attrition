@@ -8,10 +8,10 @@ Note: *3X* project uses only Python 3.X and Tableau 10.0 and above for analysis
 
 * PPT - Contains Business problem and conversion to DS problem
 * Tableau - EDA Insights
-* Feature Selection - Some work in Weka (The output is recorded in the excel file)
+* Feature Selection
 * Various classification models
 * Final PPT - Interpretation
-* Report - duh!
+* Report
 
 
 ### Installation
@@ -23,13 +23,12 @@ $ pip install imblearn
 
 ##### Problem Statement
 
-> Our client is IBM a leading firm and is doing well in the sector. It is recently facing a steep increase in its employee attrition . Employee attrition has gone up from 14% to 25% in the last 1 year . We are asked to prepare a strategy to immediately tackle this issue such that the firm’s business is not hampered and also to propose an efficient employee satisfaction program for long run. Currently, no such program is in place . Further salary hikes are not an option.
+> Our client is ABC a leading firm and is doing well in the sector. It is recently facing a steep increase in its employee attrition . Employee attrition has gone up from 14% to 25% in the last 1 year . We are asked to prepare a strategy to immediately tackle this issue such that the firm’s business is not hampered and also to propose an efficient employee satisfaction program for long run. Currently, no such program is in place . Further salary hikes are not an option.
 
-* The slides are [here](https://github.com/mmd52/3XDataMining/blob/master/Attrition%20Management.pdf)
-* The Report is [here](https://github.com/mmd52/3XDataMining/blob/master/3x.pdf)
+* The slides are [here](https://github.com/mmd52/3XDataMining/blob/master/Attrition_Management.pdf)
 
 ##### Exploratory Data analysis
-* Data is imbalance by class we have 83% who have not left the company and 17% who have left the company
+* Data is imbalanced by class we have 83% who have not left the company and 17% who have left the company
 * The age group of IBM employees in this data set is concentrated between 25-45 years
 * Attrition is more common in the younger age groups and it is more likely with females As Expected it is more common amongst single Employees
 * People who leave the company get lower opportunities to travel the company
@@ -49,21 +48,10 @@ $ pip install imblearn
 * Link to Tableau workbook for EDA is [here](https://github.com/mmd52/3XDataMining/blob/master/IBM_Attrition.twbx)
 * Link to Tableau output is [here](https://github.com/mmd52/3XDataMining/blob/master/IBM_Attrition.pdf)
 
-##### Feature Selection
-> 3 Methods were employed for feature selection, first one was to use those variables which a model thought was relevant like a decision tree or SVM. link to code is [here](https://github.com/mmd52/3XDataMining/blob/master/Feature_Selection.ipynb)
-> Second method was to use a backward elimination performed in statistics. link to output is [here](https://github.com/mmd52/3XDataMining/blob/master/SAS%20Feature%20Selection%20Logistic%20Model.pdf)
-> Third method was to use a cfs subset evaluation algorithm performed in WEKA. Link to ouput is [here](https://github.com/mmd52/3XDataMining/blob/master/Data%20Mining%20Project%20Feature%20Selection%20Weka.xlsx)
-
 ##### Data Cleaning (Data balancing and one hot encoding)
 > As our data is imabalanced we decided to oversample the minority class using a technique known as Synthetic minority oversampling technique or smote. The research paper for smote is [here](https://github.com/mmd52/3XDataMining/blob/master/SmotePaper.pdf)
-> The code for SMOTE and one hot encoding is [here](https://github.com/mmd52/3XDataMining/blob/master/DataCleaning_And_Smote.ipynb)
-
-##### Clustering
-> Clustering was just done to see if our data falls in two perfect categories. The code is [here](https://github.com/mmd52/3XDataMining/blob/master/Clustering3XFinal.ipynb)
-
-##### Association
-* Association rule mining was just done to see if our data has some patterns (Association was done in weka). The output is [here](https://github.com/mmd52/3XDataMining/blob/master/AssociationWekaOutput.md)
-* Code to prepare its data is [here](https://github.com/mmd52/3XDataMining/blob/master/DataCleaning_ForAssociation.ipynb)
+> The code for data cleaning is [here](https://github.com/mmd52/3XDataMining/blob/master/DataCleaning.ipynb)
+> The smote code is applied on classification training sets. For example [Decision Tree](https://github.com/mmd52/3XDataMining/blob/master/ModelingDtree_Final.ipynb)
 
 ##### Modeling for prediction
 In order to find a model which could help with the prediction process we ran several data mining models
