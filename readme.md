@@ -63,15 +63,8 @@ In order to find a model which could help with the prediction process we ran sev
 * [Stacking a XGBOOST on a decsion tree](https://github.com/mmd52/3XDataMining/blob/master/XGBoost_Stacker.ipynb)
 
 Summary:
-* Decision tree with smote dataset 2 ACC-> 92.22% ROC-> 0.92 KAPPA-> 0.84 
-* Random forest with entire dataset  ACC-> 87.72% ROC-> 0.59 KAPPA-> 0.26
-* Logistic Regression with entire dataset  ACC-> 88.04% ROC-> 0.67 KAPPA-> 0.42
-* SVM   ACC-> 83.9% ROC-> 0.58 KAPPA-> 0.19 
-* ANN   ACC-> 85.86% ROC-> 0.64 KAPPA-> 0.33
-* XGBOOST with smote dataset 1 acc-> 91.41% ROC-> 0.87 KAPPA-> 0.74
-
-> We achieved the best accuracy using Decision tree with the help of smote data.
-> However we believe that with more data XGBoost can outperfrom decision tree.
+> We achieved the best accuracy of 88.31% using XGBOOST with the help of smote data.
+> However logistic regression was not far behind with the accuracy of 88.04%.
 
 ##### Conclusion
 > We ended up creating an early warning system for our customer in order to help them predict if an employee has a possiblity of leaving the company or not
