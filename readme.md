@@ -1,4 +1,4 @@
-# 3X Data Mining
+# IBM HR Employee Attrition
 
 3X Data Mining is a data mining project created by 6 students completing their Masters in Data Science at the Bologna Business School
 
